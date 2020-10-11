@@ -1,3 +1,7 @@
-# Welcome to my blog
+# Welcome to ThatXliner's blog!
 
-I'm glad you are here. I plan to talk about ...
+Hello! I'm ThatXliner from GitHub! Welcome to my blog!
+
+## What is this
+
+This is my blog where I talk about programming and other stuff.
