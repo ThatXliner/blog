@@ -1,6 +1,5 @@
 ---
 title: "Creating a python package"
-date: 2020-10-15
 ---
 
 We've all have done `pip install`. It is the *de facto* tool for getting tools and python libraries such as `requests` or `flask` or even `black`. But, have you ever wanted to make one?
