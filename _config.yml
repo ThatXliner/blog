@@ -11,8 +11,3 @@ github_username:  ThatXliner # DO NOT include the @ character, or else the build
 theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-plugins:
-  - jekyll-feed
-feed:
-  path: atom.xml
-  
