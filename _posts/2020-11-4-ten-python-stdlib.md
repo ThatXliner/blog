@@ -12,13 +12,13 @@ I just tediously pickede ten with a general audience in mind.
 
 Anyways, here's the list:
 
- * Pathlib
- * Re
- * Subprocess
- * Os
- * Argparse
- * Math
- * Asyncio
- * Random
- * Copy
- * Sys
+ * [Pathlib](https://docs.python.org/3/library/pathlib.html)
+ * [Re](https://docs.python.org/3/library/re.html)
+ * [Subprocess](https://docs.python.org/3/library/subprocess.html)
+ * [Os](https://docs.python.org/3/library/os.html)
+ * [Argparse](https://docs.python.org/3/library/argparse.html)
+ * [Math](https://docs.python.org/3/library/math.html)
+ * [Asyncio](https://docs.python.org/3/library/asyncio.html)
+ * [Random](https://docs.python.org/3/library/random.html)
+ * [Copy](https://docs.python.org/3/library/copy.html)
+ * [Sys](https://docs.python.org/3/library/sys.html)
