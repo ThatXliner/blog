@@ -39,7 +39,7 @@ Vim, by itself, looks *horrible*. Even with my **epic terminal configuration**, 
 
 Ugly.
 
-Of course, **you can configure it**. First off, we would want syntax highlighting. To do that, we would enter `:syntax enable`. Now, Vim looks like this:
+Of course, **you can configure it**. First off, we would want syntax highlighting. To do that, one would type `:syntax enable`. Now, Vim looks like this:
 
 ![Vim with syntax highlighting](../assets/images/vim-syntax-enable.png)
 
@@ -109,13 +109,13 @@ It is a *graphical editor*, unlike Vim.
 
 #### Customizability
 
-I would argue that Atom *is more customizable than Vim*. Why? Well, since customizing Atom only requires some knowledge of **web technologies**, while Vim requires you to learn **yet another language**.
+I would argue that Atom *is more customizable than Vim*. Why? Well, since customizing Atom only requires some knowledge of **web technologies**, while Vim requires you to learn **yet another language**. Secondly, Atom has a package manager. You either use the GUI (in Atom) or use the CLI tool, `apm`.
 
 Technically, Atom requires you to know J*avaScript/CoffeeScript* and/or *CSS and HTML* but most people *do* know that: just look at **how many websites we have on the internet**! Want to edit some color? **Edit the stylesheet**. Want to add some epic functionality? **Hack the init file**.
 
 Some may argue that Atom is ["bloated, hard to configure, and still didn't do what I want."][2]. However, I disagree: customizing it is as simple as <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>i</kbd> (Command + Option + i on a Mac), **selecting the element**, **find the classes**, and **edit the stylesheet**. In other words, **changing the css of the element**.
 
-Atom is built on [Electronjs](https://www.electronjs.org/) (formerly known as the Atom Shell) which is a framework for creating cross-platform desktop applications from HTML. Atom is so customized that it technically is a website you can hack on. That's what makes it unique: as customizable as Emacs or Vim but easier, too.
+Atom is built on [Electronjs](https://www.electronjs.org/) (formerly known as the Atom Shell) which is a framework for creating cross-platform desktop applications from HTML. Atom is so customized that it technically is a website you can hack on. That's what makes it unique: as customizable as Emacs or Vim **but easier**.
 
 (When I say "hack", I mean by customize)
 
@@ -130,7 +130,7 @@ One of the best part of Atom is the [Teletype](https://teletype.atom.io/) featur
 
 #### Speed
 
-Atom isn't exactly the fastest editor in the world; there is no way it can compete with Vim or Sublime Text. But it isn't as slow as most other **outdated blog posts** claim. While the start-up time is usually 3 to 4 seconds (about the same as Visual Studio Code or Emacs), Atom sacrifices some speed for customizability.
+Atom isn't exactly the fastest editor in the world; there is no way it can compete with Vim or Sublime Text. But it isn't as slow as most other **outdated blog posts** claim. While the start-up time is usually 3 to 4 seconds (about the same as Visual Studio Code), Atom sacrifices some speed for customizability.
 
 It is still usable though: for me, it hasn't lagged/crashed unexpectedly.
 
@@ -141,6 +141,10 @@ It didn't crash or freeze when I scrolled immediately to the bottom, it's just a
 ### VS Code
 
 [VS Code](https://code.visualstudio.com/), or Visual Studio Code, is what I call Atom's younger brother. Like Atom, VS Code is built on top of Electronjs. Unlike Atom, it is a Microsoft product.
+
+##### Beauty
+
+The UI isn't as bad as it was but it *still* isn't as comparable as Atom.
 
 [1]: https://www.vim.org/#:~:text=29%20years%20ago%20the%20very%20first%20version%20of%20Vim%20was%20built%20and%20distributed
 
