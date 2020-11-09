@@ -1,6 +1,7 @@
 ---
 title: "The modern editor war"
 date: 2020-11-9
+Author(s): "ThatXLiner, co-authored by KomodoKode"
 ---
 
 I've been using Atom ever since last summer. Now I see the alternatives, I still prefer Atom. This is an article on *why*, heavily inspired by [this dev.to discussion](https://dev.to/ben/is-there-a-future-for-the-atom-editor-5dno).
@@ -29,7 +30,14 @@ Note: I'm not going to compare the proprietary editor (Sublime Text) in this blo
 
 [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) is an old editor: it was [first released in 1991][1]. It is a text-based, mode-based, text editor.
 
+Vim is also built-in the on Mac. Type `vim` or `vi` in your command line and a vim editor should appear.'
+
+![Vim on KomodoKode's Mac](../assets/images/mac-terminal-vim)
+
+<p align="center">Vim on the Mac Terminal</p>
+
 Being old, it means it has a lot of experience. However, it's getting *more and more popular these days.*
+
 
 #### Beauty
 
@@ -109,11 +117,13 @@ Well, Vim may seem a little *more clean*: less icons, etc. That's because I have
 
 It is a *graphical editor*, unlike Vim.
 
+The thing I don't like is the logo. Ugh.
+
 #### Customizability
 
 I would argue that Atom *is more customizable than Vim*. Why? Well, since customizing Atom only requires some knowledge of **web technologies**, while Vim requires you to learn **yet another language**. Secondly, Atom has a package manager. You either use the GUI (in Atom) or use the CLI tool, `apm`.
 
-Technically, Atom requires you to know J*avaScript/CoffeeScript* and/or *CSS and HTML* but most people *do* know that: just look at **how many websites we have on the internet**! Want to edit some color? **Edit the stylesheet**. Want to add some epic functionality? **Hack the init file**.
+Technically, Atom requires you to know *JavaScript/CoffeeScript* and/or *CSS and HTML* but most people *do* know that: just look at **how many websites we have on the internet**! Want to edit some color? **Edit the stylesheet**. Want to add some epic functionality? **Hack the init file**. 
 
 Some may argue that Atom is ["bloated, hard to configure, and still didn't do what I want."][2]. However, I disagree: customizing it is as simple as <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>i</kbd> (Command + Option + i on a Mac), **selecting the element**, **find the classes**, and **edit the stylesheet**. In other words, **changing the css of the element**.
 
