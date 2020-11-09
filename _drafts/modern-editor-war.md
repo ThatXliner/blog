@@ -35,7 +35,7 @@ Vim, by itself, looks *horrible*. Even with my **epic terminal configuration**, 
 
 ![Vim without configuration](../assets/images/vim-no-config.png)
 
-<center><sup><em>Vim without configuration (very ugly)</em></sup></center>
+<p align="center"><em>Vim without configuration (very ugly)</em></p>
 
 Ugly.
 
@@ -43,7 +43,7 @@ Of course, you can configure it. First off, we would want syntax highlighting. T
 
 ![Vim with syntax highlighting](../assets/images/vim-syntax-enable.png)
 
-<center><sup><em>Vim without with syntax highlighting (no monokai theme!)</em></sup></center>
+<p align="center"><em>Vim without with syntax highlighting (no monokai theme!)</em></p>
 
 Still kinda ugly, but it gets better.
 
@@ -54,7 +54,7 @@ Vim boasts for being *super customizable*. At least, that's it's potential.
 To customize vim, you'd ned to edit the `.vimrc` in your home directory. For me, it looks like this:
 
 ![My vimrc](../assets/images/my-vimrc.png)
-<center><sup><em>Better</em></sup></center>
+<p align="center"><em>Better</em></cp>
 
 That's cool and all but here's the catch: Vim doesn't have a native package manager: you need to install some yourself.
 
@@ -77,7 +77,7 @@ Personally, I don't think that not using the mouse would make you faster. It doe
 Vim is mostly written in [native C](https://github.com/vim/vim/search?l=c).
 
 ![Vim is written in C, you numbskull](../assets/images/tabnine-is-funny.png)
-<center><sup><em>Wonder why <a href="https://www.tabnine.com/">my autocomplete</a> thinks Vim is written in JavaScript.</em></sup></center>
+<p align="center"><em>Wonder why <a href="https://www.tabnine.com/">my autocomplete</a> thinks Vim is written in JavaScript.</em></p>
 
 In other words, it's blazingly fast. It's fast alright: to test performance, I open this 223 Kilobyte JSON file using Vim.
 
