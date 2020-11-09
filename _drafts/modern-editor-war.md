@@ -51,7 +51,7 @@ Still kinda ugly, but it gets better.
 
 Vim boasts for being *super customizable*. At least, that's it's potential.
 
-To customize vim, you'd need to edit the `.vimrc` in your home directory. The `.vimrc` is kind of like the Atom's init file but for Vim. For me, it looks like this:
+To customize vim, you'd need to edit the `.vimrc` in your home directory. The `.vimrc` is kind of like Atom's init file but for Vim. For me, it looks like this:
 
 ![My vimrc](../assets/images/my-vimrc.png)
 <p align="center"><em>Better</em></p>
