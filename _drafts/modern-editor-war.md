@@ -33,7 +33,7 @@ Being old, it means it has a lot of experience. However, it's getting more and m
 
 Vim, by itself, looks *horrible*. Even with my **epic terminal configuration**, it (without plugins) would look like this:
 
-![Vim without configuration](../assets/img/vim-no-config.png)
+![Vim without configuration](../assets/images/vim-no-config.png)
 
 <center><sup><em>Vim without configuration (very ugly)</em></sup></center>
 
@@ -41,7 +41,7 @@ Ugly.
 
 Of course, you can configure it. First off, we would want syntax highlighting. To do that, we would enter `:syntax enable`. Now, Vim looks like this:
 
-![Vim with syntax highlighting](../assets/img/vim-syntax-enable.png)
+![Vim with syntax highlighting](../assets/images/vim-syntax-enable.png)
 
 <center><sup><em>Vim without with syntax highlighting (no monokai theme!)</em></sup></center>
 
