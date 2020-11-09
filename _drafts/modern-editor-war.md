@@ -130,8 +130,6 @@ Atom is built on [Electronjs](https://www.electronjs.org/) (formerly known as th
 
 I use Atom as an alternative to Sublime Text. It has the usual features: multiple cursors, regex find (and replace), split panes, (magnificent) git integration, autocomplete, go to definition (plugin), terminal emulation (plugin), etc, etc, markdown renderer, etc, etc, and even a pizza delivery service! Just kidding about the last part (though it could become a real thing).
 
-Note that Atom was developed by GitHub.
-
 One of the best part of Atom is the [Teletype](https://teletype.atom.io/) feature. It allows you to code with your team in real time, kind of like google docs for code except that it is **peer-to-peer**.
 
 [![A GIF demo from the blog](https://blog.atom.io/img/posts/teletype/code-together.gif)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
