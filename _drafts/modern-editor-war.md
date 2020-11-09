@@ -23,6 +23,8 @@ I'm going to compare them on these 4 points:
 
 Let's go!
 
+Note: I'm not going to compare the proprietary editor (Sublime Text) in this blog post for legal reasons.
+
 ### Vim
 
 [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) is an old editor: it was [first released in 1991][1]. It is a text-based, mode-based, text editor.
