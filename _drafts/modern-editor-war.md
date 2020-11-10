@@ -65,7 +65,7 @@ Popular ones such as [Vim-plug](https://github.com/junegunn/vim-plug) and [Vundl
 
 The second catch: in order to customize Vim, you need to learn *yet another language*. Yes, the code in my `.vimrc` is actually a language called *Vimscript*. There is a [nice site where you can learn it](https://learnvimscriptthehardway.stevelosh.com/).
 
-But, no one wants to learn yet another language! It **kind of beats down on Vim's customizability**. 
+But, no one wants to learn yet another language! It **kind of beats down on Vim's customizability**.
 
 #### Productivity
 
@@ -110,15 +110,15 @@ Well, Vim may seem a little *more clean*: less icons, etc. That's because I have
 
 It is a *graphical editor*, unlike Vim.
 
-One problem, The logo *isn't* the best. 
-
-<h5 align="center">Image Needed</h5>
+One problem, The logo *isn't* the best.
+![Atom's logo](../assets/images/atom-icon.png)
+<p align="center"><em>Kinda sucks, don't you think?</em></p>
 
 #### Customizability
 
 I would argue that Atom *is more customizable than Vim*. Why? Well, since customizing Atom only requires some knowledge of **web technologies**, while Vim requires you to learn **yet another language**. Secondly, Atom has a package manager. You either use the GUI (in Atom) or use the CLI tool, `apm`.
 
-Technically, Atom requires you to know J*avaScript/CoffeeScript* and/or *CSS and HTML* but most people *do* know that: just look at **how many websites we have on the internet**! Want to edit some color? **Edit the stylesheet**. Want to add some epic functionality? **Hack the init file**. 
+Technically, Atom requires you to know J*avaScript/CoffeeScript* and/or *CSS and HTML* but most people *do* know that: just look at **how many websites we have on the internet**! Want to edit some color? **Edit the stylesheet**. Want to add some epic functionality? **Hack the init file**.
 
 Some may argue that Atom is ["bloated, hard to configure, and still didn't do what I want."][2]. However, I disagree: customizing it is as simple as <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>i</kbd> (Command + Option + i on a Mac), **selecting the element**, **find the classes**, and **edit the stylesheet**. In other words, **changing the css of the element**.
 
@@ -134,11 +134,11 @@ One of the best part of Atom is the [Teletype](https://teletype.atom.io/) featur
 
 [![A GIF demo from the blog](https://blog.atom.io/img/posts/teletype/code-together.gif)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 
-Atom has an easy package installer that you can use on the command line or inside the Atom app. The command line interface is called *"apm"*. 
+Atom has an easy package installer that you can use on the command line or inside the Atom app. The command line interface is called *"apm"*.
 
 <h5 align="center">Image Needed</h5>
 
-Atom's package library is vast and contains many useful packages. 
+Atom's package library is vast and contains many useful packages.
 
 #### Speed
 
