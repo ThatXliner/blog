@@ -1,7 +1,7 @@
 ---
 title: "The modern editor war"
 date: 2020-11-9
-Author(s): "ThatXLiner, co-authored by KomodoKode"
+author: "ThatXLiner (co-authored by KomodoKode)"
 ---
 
 I've been using Atom ever since last summer. Now I see the alternatives, I still prefer Atom. This is an article on *why*, heavily inspired by [this dev.to discussion](https://dev.to/ben/is-there-a-future-for-the-atom-editor-5dno).
@@ -117,7 +117,9 @@ Well, Vim may seem a little *more clean*: less icons, etc. That's because I have
 
 It is a *graphical editor*, unlike Vim.
 
-The thing I don't like is the logo. Ugh.
+One problem, The logo *isn't* exactly the best.
+![Atom's logo](../assets/images/atom-icon.png)
+<p align="center"><em>Kinda sucks, don't you think?</em></p>
 
 #### Customizability
 
@@ -139,6 +141,9 @@ One of the best part of Atom is the [Teletype](https://teletype.atom.io/) featur
 
 [![A GIF demo from the blog](https://blog.atom.io/img/posts/teletype/code-together.gif)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 
+Atom has an easy package installer that you can use on the command line or inside the Atom app. The command line interface is called *"apm"*.
+
+Atom's package library is vast and contains many useful packages.
 
 #### Speed
 
