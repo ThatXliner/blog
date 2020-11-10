@@ -136,8 +136,6 @@ One of the best part of Atom is the [Teletype](https://teletype.atom.io/) featur
 
 Atom has an easy package installer that you can use on the command line or inside the Atom app. The command line interface is called *"apm"*.
 
-<h5 align="center">Image Needed</h5>
-
 Atom's package library is vast and contains many useful packages.
 
 #### Speed
