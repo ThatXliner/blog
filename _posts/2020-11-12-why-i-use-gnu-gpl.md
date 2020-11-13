@@ -37,19 +37,21 @@ Now you've seen the options, here's my choice (drumroll please)....
 
 ### Why
 
-When I write code (usually open source and hosted with ❤️  by [GitHub](https://github.com/)), I don't want propritary companies benefiting (and making money) from my code when I don't.
+When I write code (usually open source and hosted with ❤️  by [GitHub](https://github.com/)), I don't want proprietary companies benefiting (and profiting) from my code when I don't.
 
 When you license code as GNU GPL, you're basically saying
 
 > Haha! Get rekt, proprietary hoggers! You can't use my code while other people can!
 
-In other words, beliving that software should be free.... **as in freedom**.
+I believe that software should be free.... **as in freedom**. You are free to distibute, use, and modify. If you want to fork this, it must be open source.
 
-Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes. It's just that it's quite useless to do that. Technically you *can* sell code under a price, but then you have to let them distibute the code, thus letting them create a free ($0) version. I like that.
+In other words, I do not want proprietary companies having an advantage. 
+
+Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes. It's just that it's quite useless to do that. While you *can* sell the MIT/Apache/GPL code under a price, but then you have to let them distibute the code, thus allowing them create a free ($0) version.
 
 ### Conclusion
 
-Currently, I have spent $0 dollars on the internet. I like that and want to keep it like that: we all benefit from free software.
+Currently, I have spent $0 dollars on the internet. I like that and want to keep it like that: we all benefit from free software. I want everyone to benefit from my code, but not in a way were I ~~won't get credit~~ cheated on.
 
 For a GNU DAWN! For freedom!
 
