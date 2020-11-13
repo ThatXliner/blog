@@ -32,8 +32,6 @@ Note: I'm not going to compare the proprietary editor (Sublime Text) in this blo
 
 Vim is also built-in the on Mac. Type `vim` or `vi` in your command line and a vim editor should appear.'
 
-![Vim on KomodoKode's Mac](../assets/images/mac-terminal-vim)
-
 <p align="center">Vim on the Mac Terminal</p>
 
 Being old, it means it has a lot of experience. However, it's getting *more and more popular these days.*
@@ -141,8 +139,6 @@ One of the best part of Atom is the [Teletype](https://teletype.atom.io/) featur
 
 [![A GIF demo from the blog](https://blog.atom.io/img/posts/teletype/code-together.gif)](https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html)
 
-Atom has an easy package installer that you can use on the command line or inside the Atom app. The command line interface is called *"apm"*.
-
 Atom's package library is vast and contains many useful packages.
 
 #### Speed
@@ -162,6 +158,7 @@ It didn't crash or freeze when I scrolled immediately to the bottom, it's just a
 ##### Beauty
 
 The UI isn't as bad as it was but it *still* isn't as comparable as Atom.
+
 
 [1]: https://www.vim.org/#:~:text=29%20years%20ago%20the%20very%20first%20version%20of%20Vim%20was%20built%20and%20distributed
 
