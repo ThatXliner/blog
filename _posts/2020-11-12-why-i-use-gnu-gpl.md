@@ -32,11 +32,12 @@ Here's a rundown on the licenses:
  
 Now you've seen the options, here's my choice (drumroll please)....
  
-**GNU GPL v3+** :scream: 
+**GNU GPL v3+** 😱 
+
 
 ### Why
 
-When I write code (usually open source and hosted with :heart: by [GitHub](https://github.com/)), I don't want propritary companies benefiting (and making money) from my code when I don't.
+When I write code (usually open source and hosted with ❤️  by [GitHub](https://github.com/)), I don't want propritary companies benefiting (and making money) from my code when I don't.
 
 When you license code as GNU GPL, you're basically saying
 
@@ -53,3 +54,5 @@ Currently, I have spent $0 dollars on the internet. I like that and want to keep
 For a GNU DAWN! For freedom!
 
 [![xkcd comic: Open Source](https://imgs.xkcd.com/comics/open_source.png)](https://xkcd.com/225/)
+
+Thanks for reading!
