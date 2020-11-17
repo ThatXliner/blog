@@ -43,11 +43,16 @@ When you license code as GNU GPL, you're basically saying
 
 > Haha! Get rekt, proprietary hoggers! You can't use my code while other people can!
 
-I believe that software should be free.... **as in freedom**. You are free to distibute, use, and modify. If you want to fork this, it must be open source.
+I believe that software should be free.... **as in freedom**. You are free to distibute, use, and modify. If you want to fork this (and make the forked code public), it must be ~~open source~~ GNU GPL (v3).
 
-In other words, I do not want proprietary companies having an advantage. 
+In other words, I do not want proprietary companies having an advantage. They can't use my library without making it GNU GPL. 😝
 
-Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes. It's just that it's quite useless to do that. While you *can* sell the MIT/Apache/GPL code under a price, but then you have to let them distibute the code, thus allowing them create a free ($0) version.
+Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes.
+It's just that it's quite useless to do that: you have to make the code freely distributed where then some guy or girl *could* (and it's totally allowed under GNU GPL) distibute a free copy with **zero changes**. Or as much changes as they like.
+
+Like I said, the distributed fork or copy *has* to be GNU GPL (v3 or the same version of GNU GPL). I'm also pretty sure they're not allowed to steal credit.
+
+GNU GPL is to code as America is to guns: free as in freedom.
 
 ### Conclusion
 
