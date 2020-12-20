@@ -1,6 +1,6 @@
 ---
 title: "13 random reasons why i still use atom"
-date: 2020-19-12
+date: 2020-12-19
 ---
 
 just a little rant/vent.
