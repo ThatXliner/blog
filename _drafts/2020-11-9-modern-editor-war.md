@@ -161,7 +161,7 @@ The thing is, if you don't care about how your editor looks, I actually **highly
 
 #### Customizability
 
-Although not being as beautiful as Atom, one might think you can customize it to remove them, right? Well, not exactly: VS Code's API isn't as powerful as Atom. You can't create a completely new component of the UI nor can you [add some epic special effects while you type](https://atom.io/packages/activate-power-mode) in VS Code. But, ironically, there are more packages on VS Code than on Atom. I guess it's due to it's rising popularity. Or maybe that it uses [TypeScript](https://www.typescriptlang.org) instead of [CoffeeScript](https://coffeescript.org). 
+Although not being as beautiful as Atom, one might think you can customize it to remove them, right? Well, not exactly: VS Code's API isn't as powerful as Atom. You can't create a completely new component of the UI nor can you [add some epic special effects while you type](https://atom.io/packages/activate-power-mode) in VS Code (well, [kinda](https://github.com/hoovercj/vscode-power-mode) but [not really](https://code.visualstudio.com/api/extension-capabilities/overview#restrictions)). But, ironically, there are more packages on VS Code than on Atom. I guess it's due to it's rising popularity. Or maybe that it uses [TypeScript](https://www.typescriptlang.org) instead of [CoffeeScript](https://coffeescript.org). Or maybe that it's extension API is enough for most. Or maybe that some extensions are propriatary.
 
 I have one thing to critique though.
 
