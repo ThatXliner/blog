@@ -181,7 +181,17 @@ The list goes on. The more it goes, the more it seems like an IDE. Atom requires
 
 Wait, I never said I didn't use VS Code. ~~Well I actually use [VS Codium](https://vscodium.com) but that's pretty much the same.~~ I mainly use the debugger for Python. Goodbye print statement debugging! ~~I have no clue how to use the [pdb](https://docs.python.org/3/library/pdb.html) anyway~~.
 
-All in all, VS Code is quite productive. I personally don't like it having so much 
+All in all, VS Code is quite productive if you know how to use it (see Vim). Although I personally don't like it having so much features to learn, I guess it would be fit for other people. 
+
+~~Not to mention the .vscode folder it adds to your repo storing the per-project settings~~.
+
+#### Speed
+ 
+From the guys who've been making text editors for years, VS Code is pretty fast, especially for an Electron App. Although it's not being as fast as Vim, it feels faster than Atom, overall. I opened that JSON file in VS Code and it syntax highligted it instantly.
+
+### Conclusion
+
+In conclusion, all editors are good for other people. Use Vim if you want to use an editor that has high potential (but a steep learning curve); use Atom if you want a customizable (extending functionality or appearence) editor; and VS Code if you want a general purpose editor with IDE-like capabilities.
 
 [1]: https://www.vim.org/#:~:text=29%20years%20ago%20the%20very%20first%20version%20of%20Vim%20was%20built%20and%20distributed
 
