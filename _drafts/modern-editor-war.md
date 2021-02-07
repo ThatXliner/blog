@@ -34,7 +34,7 @@ Vim is also built-in the on Mac. Type `vim` or `vi` in your command line and a v
 
 <p align="center">Vim on the Mac Terminal</p>
 
-Being old, it means it has a lot of experience. However, it's getting *more and more popular these days.*
+Being old, it means it has a lot of experience. However, it's getting [*more and more popular these days.*](https://dev.to/iggredible/why-i-use-vim-2f40)
 
 
 #### Beauty
@@ -89,7 +89,7 @@ In other words, it's blazingly fast. It's fast alright: to test performance, I w
 
 Vim opens it instantly and it syntax highlights the *entire file* **instantaneously**.
 
-I suspect that it can open this file that fast due to the fact that it is **text based**.
+I suspect that it can open this file that fast due to the fact that it is **text based**. It doesn't need to render complicated graphics, etc, so yeah.
 
 ### Atom
 
@@ -145,20 +145,39 @@ Atom's package library is vast and contains many useful packages.
 
 Atom isn't exactly the fastest editor in the world; there is no way it can compete with Vim or Sublime Text. But it isn't as slow as most other **outdated blog posts** claim. While the start-up time is usually 3 to 4 seconds (about the same as Visual Studio Code), Atom sacrifices some speed for customizability.
 
-It is still usable though: for me, it hasn't lagged/crashed unexpectedly.
-
 Again, I used Atom to open the humungous JSON file. It took the usual 3 seconds to load a new Atom window (including executing the init file) but it took a solid *12 seconds* to syntax highlight the entire JSON file.
 
-It didn't crash or freeze when I scrolled immediately to the bottom, it's just a little slower on highlighting the entire file. Maybe it's because of the fact that I disabled the [tree-sisters](https://tree-sitter.github.io/tree-sitter/) parsing. Nevertheless, I could still interact with Atom decently fast. In fact, I even opened the entire Python repository in Atom (and it still didn't crash).
+It didn't crash or freeze when I scrolled immediately to the bottom, it's just a little slower on highlighting the entire file. Maybe it's because of the fact that I disabled the [tree-sisters](https://tree-sitter.github.io/tree-sitter/) parsing. If it was enabled, the syntax highlighting is **super fast**. Nevertheless, I could still interact with Atom decently fast. In fact, I even opened the entire Python repository in Atom (and it still didn't crash).
 
 ### VS Code
 
-[VS Code](https://code.visualstudio.com/), or Visual Studio Code, is what I call Atom's younger brother. Like Atom, VS Code is built on top of Electronjs. Unlike Atom, it is a Microsoft product.
+[VS Code](https://code.visualstudio.com/), or Visual Studio Code, is what I call Atom's younger brother. Like Atom, VS Code is built on top of Electronjs. Unlike Atom, it is a Microsoft product. And unlike Vim, it's quite new. ~~Also, it's getting more and more popular~~
 
-##### Beauty
+#### Beauty
 
-The UI isn't as bad as it was but it *still* isn't as comparable as Atom.
+The UI isn't as bad as it was but it *still* isn't as comparable as Atom. There are these ugly icons on the left. Although you can hide them, you're going to be loosing functionality. Then again, Microsoft isn't exactly the best at UI so I'll cut them some slack. 
 
+The thing is, if you don't care about how your editor looks, I actually **highly recommend VS Code**.
+
+#### Customizability
+
+Although not being as beautiful as Atom, one might think you can customize it to remove them, right? Well, not exactly: VS Code's API isn't as powerful as Atom. You can't create a completely new component of the UI nor can you [add some epic special effects while you type](https://atom.io/packages/activate-power-mode) in VS Code. But, ironically, there are more packages on VS Code than on Atom. I guess it's due to it's rising popularity. Or maybe that it uses [TypeScript](https://www.typescriptlang.org) instead of [CoffeeScript](https://coffeescript.org). 
+
+I one thing to critique though.
+
+Making themes in VS Code is limited to the selectors they give you. Although that has *some* advantages, it isn't as powerful as CSS selectors (Atom).
+
+#### Productivity
+
+VS Code comes *packed* with functionality, out of the box. This is actually one of the reasons why I don't like it but some other people like this. Some of it's functionality are!
+
+- A built-in debugger
+- A built-in linter
+- An integrated terminal
+- Built-in refactoring capabilities
+- blah blah blah...
+
+The list goes on. The more it goes, the more it seems like an IDE. Atom requires a (deprecated) package for this. Like [Nuclide](https://nuclide.io) or [PlatformIO](https://docs.platformio.org/en/latest/integration/ide/atom.html) (wait that's maintained) or [Atom IDE UI](https://ide.atom.io). 
 
 [1]: https://www.vim.org/#:~:text=29%20years%20ago%20the%20very%20first%20version%20of%20Vim%20was%20built%20and%20distributed
 
