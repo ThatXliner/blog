@@ -163,7 +163,7 @@ The thing is, if you don't care about how your editor looks, I actually **highly
 
 Although not being as beautiful as Atom, one might think you can customize it to remove them, right? Well, not exactly: VS Code's API isn't as powerful as Atom. You can't create a completely new component of the UI nor can you [add some epic special effects while you type](https://atom.io/packages/activate-power-mode) in VS Code. But, ironically, there are more packages on VS Code than on Atom. I guess it's due to it's rising popularity. Or maybe that it uses [TypeScript](https://www.typescriptlang.org) instead of [CoffeeScript](https://coffeescript.org). 
 
-I one thing to critique though.
+I have one thing to critique though.
 
 Making themes in VS Code is limited to the selectors they give you. Although that has *some* advantages, it isn't as powerful as CSS selectors (Atom).
 
@@ -178,6 +178,10 @@ VS Code comes *packed* with functionality, out of the box. This is actually one 
 - blah blah blah...
 
 The list goes on. The more it goes, the more it seems like an IDE. Atom requires a (deprecated) package for this. Like [Nuclide](https://nuclide.io) or [PlatformIO](https://docs.platformio.org/en/latest/integration/ide/atom.html) (wait that's maintained) or [Atom IDE UI](https://ide.atom.io). 
+
+Wait, I never said I didn't use VS Code. ~~Well I actually use [VS Codium](https://vscodium.com) but that's pretty much the same.~~ I mainly use the debugger for Python. Goodbye print statement debugging! ~~I have no clue how to use the [pdb](https://docs.python.org/3/library/pdb.html) anyway~~.
+
+All in all, VS Code is quite productive. I personally don't like it having so much 
 
 [1]: https://www.vim.org/#:~:text=29%20years%20ago%20the%20very%20first%20version%20of%20Vim%20was%20built%20and%20distributed
 
