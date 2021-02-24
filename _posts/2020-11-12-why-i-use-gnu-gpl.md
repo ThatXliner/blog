@@ -22,9 +22,9 @@ Here's a rundown on the licenses:
 
  - Apache License: "Do what you want, just don't get me in legal trouble. Also, you can't patent this baby."
  
- - GNU GPL (or just GPL): "Yo, you propritary companies want to use this boy? Come and get it 'cause you're gonna have to ***open source your propritary code***. But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: l"
+ - GNU GPL (or just GPL): "Yo, you propritary companies want to use this boy? Come and get it 'cause you're gonna have to ***open source your propritary code***. But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: that's a lot of permissions."
  
- - GNU LGPL (or just LGPL): "Just GNU GPL but propritary people can use this code." (useful for small libraries)
+ - GNU LGPL (or just LGPL): "Just GNU GPL but proprietary people can use this code." (useful for small libraries)
  
  - GNU AGPL (or just AGPL): Like GNU GPL but all modified copies must release the source code. Useful for servers: it **prevents people from milking your code *over a network.***
  
