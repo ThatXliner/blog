@@ -5,26 +5,26 @@ date: 2020-11-12
 
 Because it's great.
 
-No seriously: I've seen [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MIT](https://en.wikipedia.org/wiki/MIT_License) (and [BSD](https://en.wikipedia.org/wiki/BSD_licenses)), [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License), [Apache](https://en.wikipedia.org/wiki/Apache_License) (which is pretty great, not gonna lie), but [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) seems like the way to go!
+No seriously: I've seen [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MIT](https://en.wikipedia.org/wiki/MIT_License) (and [BSD](https://en.wikipedia.org/wiki/BSD_licenses)), [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License), [Apache](https://en.wikipedia.org/wiki/Apache_License) (which are pretty great, not gonna lie), but [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) seems like the way to go!
 
-### Why licenses
+### Why licenses (skip this if you know what licenses are)
 
-Being a developer, proprietary or not, you need to notify the user (or client) how they can use the software. Some (bad) people would want to leak your secret code. 
-Others may want to steal credit from your [open source](https://en.wikipedia.org/wiki/Open_source) (read: *free*) code.
+Being a developer, proprietary or not, you need to tell the user (or client) how they can use the software. Some (bad) people would want to leak your secret code. 
+Others may want to steal credit from your [open source](https://en.wikipedia.org/wiki/Open_source) (read: *free*) code. A software license is a file that inform the client what permissions they have over your software.
 
-In short, you want to make sure the user is using your code as you want it to be.
+Basically, it's a buncha text saying what you can do with this *epic code*.
 
 ### TL;DR
 
 Here's a rundown on the licenses:
 
- - MIT (or BSD)-like licenses: "Do anything you want with the software and/or code as long as you give credit."
+ - MIT (or BSD)-like licenses are just saying "Do anything you want with the software and/or code. Just don't get me in legal trouble."
 
- - Apache License: Like the MIT license except that you *must* state your changes (if you forked and changed the original) and **you cannot patent the code**.
+ - Apache License: "Do what you want, just don't get me in legal trouble. Also, you can't patent this baby."
  
- - GNU GPL (or just GPL): Like the MIT license but all forks must be made GNU GPL licensed but you're still free to use it (and maybe modify it a bit) privately if you're not gonna distibute the new modified code. As the owner, you must make the source code public. It's helpful to **prevent proprietary companies from milking your code.**
+ - GNU GPL (or just GPL): "Yo, you propritary companies want to use this boy? Come and get it 'cause you're gonna have to ***open source your propritary code***. But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: l"
  
- - GNU LGPL (or just LGPL): Like the GPL license except that proprietary companies can use it. Very helpful if you're building a library that **you just want everyone to *use* (even proprietary companies).**
+ - GNU LGPL (or just LGPL): "Just GNU GPL but propritary people can use this code." (useful for small libraries)
  
  - GNU AGPL (or just AGPL): Like GNU GPL but all modified copies must release the source code. Useful for servers: it **prevents people from milking your code *over a network.***
  
@@ -58,8 +58,8 @@ GNU GPL is to code as America is to guns: free as in freedom.
 
 Currently, I have spent $0 dollars on the internet. I like that and want to keep it like that: we all benefit from free software. I want everyone to benefit from my code, but not in a way were I ~~won't get credit~~ cheated on.
 
-For a GNU DAWN! For freedom!
+For a GNU (new) DAWN! For freedom!
 
-[![xkcd comic: Open Source](https://imgs.xkcd.com/comics/open_source.png)](https://xkcd.com/225/)
+[![xkcd 225](https://imgs.xkcd.com/comics/open_source.png)](https://xkcd.com/225/)
 
 Thanks for reading!
