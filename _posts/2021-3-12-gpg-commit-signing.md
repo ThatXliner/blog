@@ -14,7 +14,7 @@ You're probably wondering *What in the world is that?* 🤔.
 
 Never fear, younglings! Long story short, it makes my commits *verified*
 
-![Epic, right?](../assets/verified_gpg_yay.png)
+![Epic, right?](../../assets/verified_gpg_yay.png)
 
 **Woah, how do I do that?**
 
