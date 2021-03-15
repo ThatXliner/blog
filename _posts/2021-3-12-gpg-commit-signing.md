@@ -38,7 +38,7 @@ For Linux, you should already have `gpg` or `gpg2`. If you don't have that, Ubun
 sudo apt-get install gnupg
 ```
 
-`apt-get` is the best 💪. Maybe you have [Debian](https://www.debian.org) or [Fedora](https://getfedora.org), so the package manager is different (e.g. `pacman` or `yum`). Well, try using *that*. If I had to list every Linux ~~copy~~ distribution, we'd be here *forever*.
+`apt-get` is the best 💪. But maybe you have [Debian](https://www.debian.org) or [Fedora](https://getfedora.org), so the package manager is different (e.g. `pacman` or `yum`). Well, try using *that*. If I had to list every Linux ~~copy~~ distribution, we'd be here *forever*.
 
 Now, let's see the instructions for *other platforms*...
 
@@ -76,9 +76,9 @@ Head over to the [use gpg](#use-gpg) section! I'll see you there!
 
 #### I'm on stupid Windows
 
-HAHAHAHAHA.
+*HAHAHAHAHA.*
 
-Well, just click download right here: https://gpg4win.org/download.html. I can not be sure that it's not malicious but Windows sucks anyway 😛.
+Well, just click download right here: https://gpg4win.org/download.html. I **can not be sure that it's not malicious** but Windows sucks anyway 😛.
 
 ### Use GPG
 
@@ -102,5 +102,5 @@ If that command fails, then either my Windows-foo sucked (I was guessing the com
 
 **Let's assume it worked**
 
-And that you got GPG.
+And that you got GPG. Then, we should make a *signing key*. It's like a password.
 
