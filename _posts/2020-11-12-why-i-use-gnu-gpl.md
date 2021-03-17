@@ -20,13 +20,13 @@ Here's a rundown on the licenses:
 
  - MIT (or BSD)-like licenses are just saying "Do anything you want with the software and/or code. Just don't get me in legal trouble."
 
- - Apache License: "Do what you want, just don't get me in legal trouble. Also, you can't patent this baby."
+ - Apache License says "Do what you want, just don't get me in legal trouble. Also, you can't patent this baby."
  
- - GNU GPL (or just GPL): "Yo, you propritary companies want to use this boy? Come and get it 'cause you're gonna have to ***open source your propritary code***. But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: that's a lot of permissions."
+ - GNU GPL (or just GPL): "Yo, you proprietary companies want to use this boy? Come and get it 'cause you're gonna have to ***risk open source-ing your propritary code*** (and some other conditions). But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: that's a lot of permissions and."
  
- - GNU LGPL (or just LGPL): "Just GNU GPL but proprietary people can use this code." (useful for small libraries)
+ - GNU LGPL (or just LGPL): "I'm just GNU GPL like but y'all proprietary people can use this code. Yes, you're protected by my permissions" (useful for small libraries)
  
- - GNU AGPL (or just AGPL): Like GNU GPL but all modified copies must release the source code. Useful for servers: it **prevents people from milking your code *over a network.***
+ - GNU AGPL (or just AGPL): "I'm also like GNU GPL but all modified copies must release the source code." Useful for servers: it **prevents people from milking your code *over a network.*** So they can't exactly milk your HTML or JavaScript... HAHA PROPRIETARY COMPANIES!!! 😝
  
 ### My choice
  
@@ -43,12 +43,11 @@ When you license code as GNU GPL, you're basically saying
 
 > Haha! Get rekt, proprietary hoggers! You can't use my code while other people can!
 
-I believe that software should be free.... **as in freedom**. You are free to distibute, use, and modify. If you want to fork this (and make the forked code public), it must be ~~open source~~ GNU GPL (v3).
+I believe that software should be free.... **as in freedom**. You are free to distibute, use, and modify. Although if you want to fork any project licensed with the GPL (and make the forked code public), it must be ~~open source~~ GNU GPL (v3) (because you also have to make sure the client can see the source code). That's one of the permissions I must give you.
 
-In other words, I do not want proprietary companies having an advantage. They can't use my library without making it GNU GPL. 😝
+In other words, I do not want proprietary companies having an advantage. They can't use my library without making their app GNU GPL. 😝
 
-Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes.
-It's just that it's quite useless to do that: you have to make the code freely distributed where then some guy or girl *could* (and it's totally allowed under GNU GPL) distibute a free copy with **zero changes**. Or as much changes as they like.
+Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes. It's just that it's quite useless to do that: you have to make the code freely distributed where then some guy or girl *could* (and it's totally allowed under GNU GPL) distibute a free copy with **zero changes**. Or as much changes as they like.
 
 Like I said, the distributed fork or copy *has* to be GNU GPL (v3 or the same version of GNU GPL). I'm also pretty sure they're not allowed to steal credit.
 
@@ -60,6 +59,6 @@ Currently, I have spent $0 dollars on the internet. I like that and want to keep
 
 For a GNU (new) DAWN! For freedom!
 
-[![xkcd 225](https://imgs.xkcd.com/comics/open_source.png)](https://xkcd.com/225/)
+[![xkcd: 225](https://imgs.xkcd.com/comics/open_source.png)](https://xkcd.com/225/)
 
 Thanks for reading!
