@@ -177,7 +177,11 @@ VS Code comes *packed* with functionality, out of the box. This is actually one 
 - Built-in refactoring capabilities
 - blah blah blah...
 
-The list goes on. The more it goes, the more it seems like an IDE. Atom requires a (deprecated) package for this. Like [Nuclide](https://nuclide.io) or [PlatformIO](https://docs.platformio.org/en/latest/integration/ide/atom.html) (wait that's maintained) or [Atom IDE UI](https://ide.atom.io). 
+The list goes on. The more it goes, the more VSCode seems like an IDE. It kinda is.
+
+Atom requires a (deprecated) package for this. Like [Nuclide](https://nuclide.io) or [PlatformIO](https://docs.platformio.org/en/latest/integration/ide/atom.html) (wait that's maintained) or [Atom IDE UI](https://ide.atom.io). Did I say deprecated? Atom has [atom-community](https://github.com/atom-community/atom-languageclient) now but it took me a while to figure out how Atom stands in the IDE world.
+
+VS Code has all that built in, as I said above.
 
 Wait, I never said I didn't use VS Code. ~~Well I actually use [VS Codium](https://vscodium.com) but that's pretty much the same.~~ I mainly use the debugger for Python. Goodbye print statement debugging! ~~I have no clue how to use the [pdb](https://docs.python.org/3/library/pdb.html) anyway~~.
 
