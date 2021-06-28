@@ -12,7 +12,7 @@ Wait, what *is* a python package? A python module is any importable python file 
 
 In order for our package to be distributed easily (a.k.a., all the necessary files, add it to $PYTHONPATH, etc), we need to use python's [`setuptools`](https://pypi.org/project/setuptools/)!
 
-Well, setuptools is actually an *enhancement* of python's built-in [`disutils`](https://docs.python.org/3/library/distutils.html). Meaning, it's a third party package installable by `pip install setuptools`. But still, every single PyPi project will, at some point, use setuptools<sup name="a1">[1](#f1)</sup>. Without further ado, let's make a package!
+Well, setuptools is actually an *enhancement* of python's built-in [`disutils`](https://docs.python.org/3/library/distutils.html). Meaning, it's a third party package installable by `pip install setuptools`. But still, every single PyPi project will, at some point, use setuptools[^1]. Without further ado, let's make a package!
 
 ### Finding the packages
 
@@ -95,4 +95,4 @@ An `sdist` is just a Gziped tarball of the specified packages
 
 
 
-<b id="f1">1:</b> Unless you're using a tool like [poetry](https://github.com/python-poetry/poetry), or you're creating [PEP 517](https://www.python.org/dev/peps/pep-0517/) distribution files manually, you will need to use `setuptools` at some point. [↩](#a1)
+[^1]: Unless you're using a tool like [poetry](https://github.com/python-poetry/poetry), or you're creating [PEP 517](https://www.python.org/dev/peps/pep-0517/) distribution files manually, you will need to use `setuptools` at some point.
