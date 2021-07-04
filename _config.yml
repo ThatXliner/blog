@@ -12,3 +12,8 @@ theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 excerpt_separator: <!--END EXCERPT-->
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
