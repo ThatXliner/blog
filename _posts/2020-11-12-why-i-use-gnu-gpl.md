@@ -4,12 +4,13 @@ date: 2020-11-12
 ---
 
 Because it's great.
+<!--END EXCERPT-->
 
 No seriously: I've seen [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [MIT](https://en.wikipedia.org/wiki/MIT_License) (and [BSD](https://en.wikipedia.org/wiki/BSD_licenses)), [AGPL](https://en.wikipedia.org/wiki/Affero_General_Public_License), [Apache](https://en.wikipedia.org/wiki/Apache_License) (which are pretty great, not gonna lie), but [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) seems like the way to go!
 
 ### Why licenses (skip this if you know what licenses are)
 
-Being a developer, proprietary or not, you need to tell the user (or client) how they can use the software. Some (bad) people would want to leak your secret code. 
+Being a developer, proprietary or not, you need to tell the user (or client) how they can use the software. Some (bad) people would want to leak your secret code.
 Others may want to steal credit from your [open source](https://en.wikipedia.org/wiki/Open_source) (read: *free*) code. A software license is a file that inform the client what permissions they have over your software.
 
 Basically, it's a buncha text saying what you can do with this *epic code*.
@@ -21,18 +22,18 @@ Here's a rundown on the licenses:
  - MIT (or BSD)-like licenses are just saying "Do anything you want with the software and/or code. Just don't get me in legal trouble."
 
  - Apache License says "Do what you want, just don't get me in legal trouble. Also, you can't patent this baby."
- 
+
  - GNU GPL (or just GPL): "Yo, you proprietary companies want to use this boy? Come and get it 'cause you're gonna have to ***risk open source-ing your propritary code*** (and some other conditions). But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: that's a lot of permissions and."
- 
+
  - GNU LGPL (or just LGPL): "I'm just GNU GPL like but y'all proprietary people can use this code. Yes, you're protected by my permissions" (useful for small libraries)
- 
+
  - GNU AGPL (or just AGPL): "I'm also like GNU GPL but all modified copies must release the source code." Useful for servers: it **prevents people from milking your code *over a network.*** So they can't exactly milk your HTML or JavaScript... HAHA PROPRIETARY COMPANIES!!! 😝
- 
+
 ### My choice
- 
+
 Now you've seen the options, here's my choice (drumroll please)....
- 
-**GNU GPL v3+** 😱 
+
+**GNU GPL v3+** 😱
 
 
 ### Why

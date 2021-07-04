@@ -1,9 +1,8 @@
 ---
 title: "13 random reasons why i still use atom"
 date: 2020-12-19
+excerpt: Just a little rant/vent.
 ---
-
-just a little rant/vent.
 
 1. Intuitive Git integration
 2. Unlimited customizability
@@ -13,7 +12,7 @@ just a little rant/vent.
 6. Due to the minimalist nature of Atom, you can (and will) master all the features of it without reading a bit of documentation (unlike VS Code)
 7. Embraced by open source developers
 8. 9001 packages as of today
-9. Powerful snippet customization 
+9. Powerful snippet customization
 10. Fully open source, with no Microsoft influence
 11. Intuitive regex find-and-replace
 12. Teletype, a powerful feature of Atom introducing Google Docs-like collaboration to code
