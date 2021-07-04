@@ -2,6 +2,7 @@
 title: "The modern editor war"
 date: 2020-11-9
 author: "ThatXLiner (co-authored by KomodoKode)"
+excerpt: "Goodbye, Emacs"
 ---
 
 I've been using Atom ever since last summer. Now I see the alternatives, I still prefer Atom. This is an article on *why*, heavily inspired by [this dev.to discussion](https://dev.to/ben/is-there-a-future-for-the-atom-editor-5dno).
@@ -24,13 +25,13 @@ I'm going to compare them on these 4 points:
 
 Let's go!
 
-Note: I'm not going to compare the proprietary editor (Sublime Text) in this blog post for legal reasons.
+Note: I'm not going to compare the proprietary editor (Sublime Text) in this blog post for ~~legal~~ laziness reasons.
 
 ### Vim
 
 [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) is an old editor: it was [first released in 1991][1]. It is a text-based, mode-based, text editor.
 
-Vim is also built-in the on Mac. Type `vim` or `vi` in your command line and a vim editor should appear.'
+Vim is also built-in the on Mac. Type `vim` or `vi` in your command line and a vim/vi editor should appear. (vi and vim are basically the same)
 
 <p align="center">Vim on the Mac Terminal</p>
 
@@ -41,7 +42,7 @@ Being old, it means it has a lot of experience. However, it's getting [*more and
 
 Vim, by itself, looks *horrible*. Even with my **epic terminal configuration**, it (without plugins) would look like this:
 
-![Vim without configuration](../assets/images/vim-no-config.png)
+![Vim without configuration](/assets/images/vim-no-config.png)
 
 <p align="center"><em>Vim without configuration (very ugly)</em></p>
 
@@ -49,7 +50,7 @@ Ugly.
 
 Of course, **you can configure it**. First off, we would want syntax highlighting. To do that, one would type `:syntax enable`. Now, Vim looks like this:
 
-![Vim with syntax highlighting](../assets/images/vim-syntax-enable.png)
+![Vim with syntax highlighting](/assets/images/vim-syntax-enable.png)
 
 <p align="center"><em>Vim without with syntax highlighting (no monokai theme!)</em></p>
 
@@ -61,7 +62,7 @@ Vim boasts for being *super customizable*. At least, that's it's potential.
 
 To customize vim, you'd need to edit the `.vimrc` in your home directory. The `.vimrc` is kind of like Atom's init file but for Vim. For me, it looks like this:
 
-![My vimrc](../assets/images/my-vimrc.png)
+![My vimrc](/assets/images/my-vimrc.png)
 <p align="center"><em>Better</em></p>
 
 That's cool and all but here's the catch: Vim doesn't have a native package manager: you need to install some yourself.
@@ -82,7 +83,7 @@ Personally, I don't think that not using the mouse would make you faster. It doe
 
 Vim is mostly written in [native C](https://github.com/vim/vim/search?l=c).
 
-![Vim is written in C, you numbskull](../assets/images/tabnine-is-funny.png)
+![Vim is written in C, you numbskull](/assets/images/tabnine-is-funny.png)
 <p align="center"><em>Wonder why <a href="https://www.tabnine.com/">my autocomplete</a> thinks Vim is written in JavaScript.</em></p>
 
 In other words, it's blazingly fast. It's fast alright: to test performance, I will open this 223 Kilobyte JSON file using Vim.
@@ -99,16 +100,16 @@ I suspect that it can open this file that fast due to the fact that it is **text
 
 Atom, by far, is the most beautiful text editor. Just look at me edit this file:
 
-![Editing this file using Atom](../assets/images/editing-blog-with-atom.png)
+![Editing this file using Atom](/assets/images/editing-blog-with-atom.png)
 <p align="center"><em>Beautiful</em></p>
 
 Hmm, looks kind of ugly. Let's try again. Look at me edit this python script:
 
-![Editing python script using Atom](../assets/images/atom-editing-python.png)
+![Editing python script using Atom](/assets/images/atom-editing-python.png)
 <p align="center"><em>A discord.py bot script</em></p>
 Compared to Vim:
 
-![Editing python using Vim](../assets/images/vim-editing-python.png)
+![Editing python using Vim](/assets/images/vim-editing-python.png)
 <p align="center"><em>"Vimming"</em></p>
 
 Well, Vim may seem a little *more clean*: less icons, etc. That's because I haven't customized it that much. Atom, on the other hand, has awesome defaults and an epic UI, giving it a modern feel.
@@ -116,7 +117,7 @@ Well, Vim may seem a little *more clean*: less icons, etc. That's because I have
 It is a *graphical editor*, unlike Vim.
 
 One problem, The logo *isn't* exactly the best.
-![Atom's logo](../assets/images/atom-icon.png)
+![Atom's logo](/assets/images/atom-icon.png)
 <p align="center"><em>Kinda sucks, don't you think?</em></p>
 
 #### Customizability
@@ -155,7 +156,7 @@ It didn't crash or freeze when I scrolled immediately to the bottom, it's just a
 
 #### Beauty
 
-The UI isn't as bad as it was but it *still* isn't as comparable as Atom. There are these ugly icons on the left. Although you can hide them, you're going to be loosing functionality. Then again, Microsoft isn't exactly the best at UI so I'll cut them some slack. 
+The UI isn't as bad as it was but it *still* isn't as comparable as Atom. There are these ugly icons on the left. Although you can hide them, you're going to be loosing functionality. Then again, Microsoft isn't exactly the best at UI so I'll cut them some slack.
 
 The thing is, if you don't care about how your editor looks, I actually **highly recommend VS Code**.
 
@@ -185,12 +186,12 @@ VS Code has all that built in, as I said above.
 
 Wait, I never said I didn't use VS Code. ~~Well I actually use [VS Codium](https://vscodium.com) but that's pretty much the same.~~ I mainly use the debugger for Python. Goodbye print statement debugging! ~~I have no clue how to use the [pdb](https://docs.python.org/3/library/pdb.html) anyway~~.
 
-All in all, VS Code is quite productive if you know how to use it (see Vim). Although I personally don't like it having so much features to learn, I guess it would be fit for other people. 
+All in all, VS Code is quite productive if you know how to use it (see Vim). Although I personally don't like it having so much features to learn, I guess it would be fit for other people.
 
 ~~Not to mention the .vscode folder it adds to your repo storing the per-project settings~~.
 
 #### Speed
- 
+
 From the guys who've been making text editors for years, VS Code is pretty fast, especially for an Electron App. Although it's not being as fast as Vim, it feels faster than Atom, overall. I opened that JSON file in VS Code and it syntax highligted it instantly.
 
 ### Conclusion
