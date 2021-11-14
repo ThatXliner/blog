@@ -23,9 +23,9 @@ Here's a rundown on the licenses:
 
  - Apache License says "Do what you want, just don't get me in legal trouble. Also, you can't patent this baby."
 
- - GNU GPL (or just GPL): "Yo, you proprietary companies want to use this boy? Come and get it 'cause you're gonna have to ***risk open source-ing your propritary code*** (and some other conditions). But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: that's a lot of permissions and."
+ - GNU GPL (or just GPL): "Yo, you proprietary companies want to use this boy? Come and get it 'cause you're gonna have to ***risk open source-ing your propritary code*** (and some other conditions). But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: that's a lot of permissions I need to promise."
 
- - GNU LGPL (or just LGPL): "I'm just GNU GPL like but y'all proprietary people can use this code. Yes, you're protected by my permissions" (useful for small libraries)
+ - GNU LGPL (or just LGPL): "I'm just GNU GPL like but y'all proprietary people can use this code. You don't have to share it to the world. And you still get the other benefits." (useful for small libraries)
 
  - GNU AGPL (or just AGPL): "I'm also like GNU GPL but all modified copies must release the source code." Useful for servers: it **prevents people from milking your code *over a network.*** So they can't exactly milk your HTML or JavaScript... HAHA PROPRIETARY COMPANIES!!! 😝
 
@@ -35,22 +35,21 @@ Now you've seen the options, here's my choice (drumroll please)....
 
 **GNU GPL v3+** 😱
 
-
 ### Why
 
 When I write code (usually open source and hosted with ❤️  by [GitHub](https://github.com/)), I don't want proprietary companies benefiting (and profiting) from my code when I don't.
 
 When you license code as GNU GPL, you're basically saying
 
-> Haha! Get rekt, proprietary hoggers! You can't use my code while other people can!
+> Haha! Get rekt, proprietary hogs! You can't use my code while other people can! And if you do, ya might as well go open source!
 
-I believe that software should be free.... **as in freedom**. You are free to distibute, use, and modify. Although if you want to fork any project licensed with the GPL (and make the forked code public), it must be ~~open source~~ GNU GPL (v3) (because you also have to make sure the client can see the source code). That's one of the permissions I must give you.
+I believe that software should be free.... **as in freedom**. You are free to distibute, use, and modify. Although if you want to fork any project licensed with the GPL (and make the forked code public), it must be ~~open source~~ GNU GPL (v3). Meaning you still have to do what I did. That's one of the conditions.
 
 In other words, I do not want proprietary companies having an advantage. They can't use my library without making their app GNU GPL. 😝
 
-Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes. It's just that [it's quite useless to do that](https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLRequireAvailabilityToPublic): you have to make the code freely distributed where then some guy or girl *could* (and it's totally allowed under GNU GPL) distibute a free copy with **zero changes**. Or as much changes as they like.
+Even if these licenses seems like there will be no cost, you technically *can* use it for commercial purposes ([GPL at least](https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLAllowMoney)). It's just that [it's quite useless to do that](https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLRequireAvailabilityToPublic): you have to make the code freely distributed where then some guy or girl *could* (and it's totally allowed under GNU GPL) distibute a free copy with **zero changes**. Or as much changes as they like.
 
-Like I said, the distributed fork or copy *has* to be GNU GPL (v3 or the same version of GNU GPL). I'm also pretty sure they're not allowed to steal credit.
+Like I said, any fork or copy also *has* to be GNU GPL (v3 or the same version of GNU GPL). [I'm also pretty sure they're not allowed to steal credit](https://www.gnu.org/licenses/gpl-faq.en.html#IWantCredit).
 
 GNU GPL is to code as America is to guns: free as in freedom.
 
