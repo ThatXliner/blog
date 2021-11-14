@@ -48,7 +48,7 @@ I believe that software should be free.... **as in freedom**. You are free to di
 
 In other words, I do not want proprietary companies having an advantage. They can't use my library without making their app GNU GPL. 😝
 
-Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes. It's just that it's quite useless to do that: you have to make the code freely distributed where then some guy or girl *could* (and it's totally allowed under GNU GPL) distibute a free copy with **zero changes**. Or as much changes as they like.
+Even if these licenses seem like there will be no cost, you technically *can* use it for commercial purposes. It's just that [it's quite useless to do that](https://www.gnu.org/licenses/gpl-faq.en.html#DoesTheGPLRequireAvailabilityToPublic): you have to make the code freely distributed where then some guy or girl *could* (and it's totally allowed under GNU GPL) distibute a free copy with **zero changes**. Or as much changes as they like.
 
 Like I said, the distributed fork or copy *has* to be GNU GPL (v3 or the same version of GNU GPL). I'm also pretty sure they're not allowed to steal credit.
 
