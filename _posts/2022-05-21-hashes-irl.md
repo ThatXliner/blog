@@ -61,4 +61,6 @@ The reason why I didn’t use a salt was because
 
 Next time you want to verify that the other person knew the same info as you do, try giving zero-knowledge proofs a shot. Maybe even get creative and use something else instead of hashes if hashes didn’t suit the situation.
 
+- - - -
+
 [^1]: while a rainbow table is different from a brute force search, it’s essentially a brute force search with pre-computing hashes and storing the results in a smart way.
