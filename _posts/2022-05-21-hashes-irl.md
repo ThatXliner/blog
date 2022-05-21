@@ -22,7 +22,7 @@ SHA-256 is part of the [SHA-2](https://en.wikipedia.org/wiki/SHA-2) family of [c
 A cryptographic hash function is a thingy, program, or method, of changing some input (e.g. text) to a different fixed-length output, deterministically (for the same input, give the same output every single time).
 
 Cryptographic hashes *should* have these properties (as most do):
-1.  [Hash collision](https://en.wikipedia.org/wiki/Hash_collision) resistance: it should be infeasible (but it’s theoretically possible) to have 2 inputs map to the same output.
+1. [Hash collision](https://en.wikipedia.org/wiki/Hash_collision) resistance: it should be infeasible (but it’s theoretically possible) to have 2 inputs map to the same output.
 2. [Avalanche effect](https://en.wikipedia.org/wiki/Avalanche_effect): when the input changes slightly, the output should be very different
 3. [Pre-image](https://en.wikipedia.org/wiki/Preimage_attack) resistance: It should be impossible to figure out the input given the output (i.e impossible to reverse-engineer). The only way an attacker should be able to figure what you hashed is through [brute force](https://en.wikipedia.org/wiki/Brute-force_search) or hashing every input they can think of and comparing it to the given hash.
 
