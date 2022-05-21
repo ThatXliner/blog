@@ -1,7 +1,7 @@
 ---
 title: "Hash functions applied in unexpected real life situations"
 date: 2022-05-21
-excerpt: "Who knew cryptogralhic hashes were so awesome?"
+excerpt: "Who knew cryptographic hashes were so awesome?"
 ---
 
 On May 18, my friend (let’s call him Bob) and I overheard some of the girls gossiping that a boy (we’ll call him X) liked one of them girls (call her Y). I’m going to keep the names anonymous for their sake.
