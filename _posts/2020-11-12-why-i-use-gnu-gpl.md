@@ -23,7 +23,7 @@ Here's a rundown on the licenses:
 
  - Apache License says "Do what you want, just don't get me in legal trouble. Also, you can't patent this baby."
 
- - GNU GPL (or just GPL): "Yo, you proprietary companies want to use this boy? Come and get it 'cause you're gonna have to ***risk open source-ing your propritary code*** (and some other conditions). But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: that's a lot of permissions I need to promise."
+ - GNU GPL (or just GPL): "Yo, you proprietary companies want to use this boy? Come and get it 'cause you're gonna have to ***risk open source-ing your proprietary code*** (and some other conditions). But, I've must give everyone the rights to view (the source code), modify, and distribute... sigh: that's a lot of permissions I need to promise."
 
  - GNU LGPL (or just LGPL): "I'm just GNU GPL like but y'all proprietary people can use this code. You don't have to share it to the world. And you still get the other benefits." (useful for small libraries)
 
