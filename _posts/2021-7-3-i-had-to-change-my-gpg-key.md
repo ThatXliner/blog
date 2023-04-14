@@ -1,6 +1,6 @@
 ---
 title: "I had to change my GPG key"
-date: 2021-7-3
+date: 2021-07-03
 ---
 And it wasn't my fault.
 <!--END EXCERPT-->
