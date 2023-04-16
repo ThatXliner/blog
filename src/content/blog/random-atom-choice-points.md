@@ -1,7 +1,7 @@
 ---
 title: "13 random reasons why i still use atom"
-date: 2020-12-19
-excerpt: Just a little rant/vent.
+pubDatetime: 2020-12-19
+description: Just a little rant/vent.
 ---
 
 1. Intuitive Git integration
@@ -19,13 +19,14 @@ excerpt: Just a little rant/vent.
 13. Support for tree-sisters parsers, a powerful and efficient parsing system as opposed to TextMate-style grammars
 
 **Rebuttals**
+
 > “It’s slow!”
 
 And that feature helped me keep my code clean, modular, and concise 👌✨.
 
 > “GitHub is owned by Microsoft!”
 
-Atom was made *before* that happened 😬.
+Atom was made _before_ that happened 😬.
 
 > “Atom’s dead”
 

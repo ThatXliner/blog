@@ -1,8 +1,11 @@
 ---
 title: "I had to change my GPG key"
-date: 2021-07-03
+description: And it wasn't my fault.
+pubDatetime: 2021-07-03
 ---
+
 And it wasn't my fault.
+
 <!--END EXCERPT-->
 
 Who's fault was it then? Apple's fault.
@@ -13,13 +16,13 @@ Just yesterday, when I logged on to my computer, I tried to commit [this commit]
 
 But this is when everything went wrong: the pop-up requesting my GPG key password appeared.
 
-There's nothing wrong with it except that it shouldn't have popped up: I had the password saved to my [Keychain](https://support.apple.com/guide/keychain-access/what-is-keychain-access-kyca1083/mac). I never had to worry about the password for a *long* time.
+There's nothing wrong with it except that it shouldn't have popped up: I had the password saved to my [Keychain](https://support.apple.com/guide/keychain-access/what-is-keychain-access-kyca1083/mac). I never had to worry about the password for a _long_ time.
 
 In fact, so long that I **forgot the password**.
 
 Being the smart guy I am, I have set different passwords for different accounts. So that way when one account is compromised, others won't be.
 
-What was my emergency plan? It was a simple, well-thought out, very comprehensive solution: ***panic***.
+What was my emergency plan? It was a simple, well-thought out, very comprehensive solution: **_panic_**.
 
 And so I deleted my old key (since it was useless to me), deleted it from GitHub (later on, we'll see how I regret this particular step), created a new key, and uploaded that to GitHub.
 

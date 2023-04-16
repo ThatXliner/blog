@@ -1,6 +1,6 @@
 ---
 title: "Rust: the switch so far"
-date: 2021-11-07
+pubDatetime: 2021-11-07
 excerpt: "Coming from Python, JavaScript, and C++"
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "my first blog post"
-date: 2020-10-11
+description: "Hello! this is a test!"
+pubDatetime: 2020-10-11
 ---
 
 Hello! this is a test!
+
 <!--END EXCERPT-->
