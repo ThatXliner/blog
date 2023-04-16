@@ -34,7 +34,7 @@ To convert to any new language, it's always great to start with a comparison, no
 As you saw above, Rust is a curly-braced language. One thing I should point out is that the semicolons are required. *Kinda.* If you [download Rust](https://www.rust-lang.org/tools/install) for yourself (no admin permissions required :D) and try to run the hello world program above without the semicolon, the compiler **won't complain**.
 
 *But* if you add an extra statement, it will complain, saying:
-![Oops](/assets/images/rust-compiler-complaining.png)
+![Oops](https://raw.githubusercontent.com/ThatXliner/blog/main/images/rust-compiler-complaining.png)
 
 So, let's just say semicolons are required.
 
@@ -50,7 +50,7 @@ fn main() {
 
 Here, we use the `println` *macro* (which is exactly what it sounds like, C++ nerds) to print an **undeclared variable**. We never defined this before so
 
-![Oops](/assets/images/rust-compiler-index-example.png)
+![Oops](https://raw.githubusercontent.com/ThatXliner/blog/main/images/rust-compiler-index-example.png)
 
 ### Memory
 
