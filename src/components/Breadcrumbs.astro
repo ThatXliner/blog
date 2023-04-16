@@ -15,7 +15,7 @@ breadcrumbList[0] === "posts" &&
 <nav class="breadcrumb" aria-label="breadcrumb">
   <ul>
     <li>
-      <a href="/">Home</a>
+      <a href="/blog/">Home</a>
       <span aria-hidden="true">&#62;</span>
     </li>
     {
@@ -32,7 +32,7 @@ breadcrumbList[0] === "posts" &&
           </li>
         ) : (
           <li>
-            <a href={`/${breadcrumb}`}>{breadcrumb}</a>
+            <a href={`/blog/${breadcrumb}`}>{breadcrumb}</a>
             <span aria-hidden="true">&#62;</span>
           </li>
         )
