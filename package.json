@@ -55,5 +55,6 @@
     "*": [
       "prettier --plugin-search-dir=. --write"
     ]
-  }
+  },
+  "packageManager": "^pnpm@8.1.1"
 }
