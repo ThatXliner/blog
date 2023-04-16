@@ -1,7 +1,7 @@
 ---
 import Hr from "./Hr.astro";
-import Socials from "./Socials.astro";
-
+import LinkButton from "./LinkButton.astro";
+import socialIcons from "@assets/socialIcons";
 const currentYear = new Date().getFullYear();
 
 export interface Props {
@@ -14,7 +14,15 @@ const { noMarginTop = false } = Astro.props;
 <footer class={`${noMarginTop ? "" : "mt-auto"}`}>
   <Hr noPadding />
   <div class="footer-wrapper">
-    <Socials centered />
+    <LinkButton
+      href="https://github.com/ThatXliner/blog"
+      className="link-button"
+      title="This site on Github"
+    >
+      Fork me on GitHub
+      <Fragment set:html={socialIcons["Github"]} />
+    </LinkButton>
+
     <div class="copyright-wrapper">
       <span>Copyright &#169; {currentYear}</span>
       <span class="separator">&nbsp;|&nbsp;</span>
