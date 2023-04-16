@@ -1,7 +1,7 @@
 ---
 title: "Another google easter egg"
 description: "Marquee..."
-pubDatetime: 2022-2-11
+pubDatetime: 2022-02-11
 ---
 
 Search "marquee html"

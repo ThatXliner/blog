@@ -1,6 +1,6 @@
 ---
 title: "The modern editor war"
-pubDatetime: 2020-11-9
+pubDatetime: 2020-11-09
 author: "ThatXliner (co-authored by KomodoKode)"
 description: "Goodbye, Emacs"
 ---
