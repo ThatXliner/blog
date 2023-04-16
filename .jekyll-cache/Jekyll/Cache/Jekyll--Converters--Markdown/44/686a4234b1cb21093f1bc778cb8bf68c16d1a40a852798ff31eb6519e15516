@@ -1,0 +1,59 @@
+I"<ol>
+  <li>Intuitive Git integration</li>
+  <li>Unlimited customizability</li>
+  <li>Clean, modern, intuitive UI unlike anything I’ve seen before</li>
+  <li>Simple and minimal at the start yet powerful with plugins</li>
+  <li>Very easy and simple to use</li>
+  <li>Due to the minimalist nature of Atom, you can (and will) master all the features of it without reading a bit of documentation (unlike VS Code)</li>
+  <li>Embraced by open source developers</li>
+  <li>9001 packages as of today</li>
+  <li>Powerful snippet customization</li>
+  <li>Fully open source, with no Microsoft influence</li>
+  <li>Intuitive regex find-and-replace</li>
+  <li>Teletype, a powerful feature of Atom introducing Google Docs-like collaboration to code</li>
+  <li>Support for tree-sisters parsers, a powerful and efficient parsing system as opposed to TextMate-style grammars</li>
+</ol>
+
+<p><strong>Rebuttals</strong></p>
+<blockquote>
+  <p>“It’s slow!”</p>
+</blockquote>
+
+<p>And that feature helped me keep my code clean, modular, and concise 👌✨.</p>
+
+<blockquote>
+  <p>“GitHub is owned by Microsoft!”</p>
+</blockquote>
+
+<p>Atom was made <em>before</em> that happened 😬.</p>
+
+<blockquote>
+  <p>“Atom’s dead”</p>
+</blockquote>
+
+<p>The repository is not archived so it’s very much alive 👊.</p>
+
+<blockquote>
+  <p>“It crashed (and/or it lost my unsaved work)”</p>
+</blockquote>
+
+<p>Feel free to create an issue on GitHub.</p>
+
+<blockquote>
+  <p>“It’s UI is so messy and bloated”</p>
+</blockquote>
+
+<p>You can customize it in any way you want, only limited by your CSS and/or JavaScript knowledge✊.</p>
+
+<blockquote>
+  <p>“It’s glitchy”</p>
+</blockquote>
+
+<p>Feel free to open an issue about the glitches.</p>
+
+<blockquote>
+  <p>“Vim is better”</p>
+</blockquote>
+
+<p>No, Emacs is 🐮!</p>
+:ET

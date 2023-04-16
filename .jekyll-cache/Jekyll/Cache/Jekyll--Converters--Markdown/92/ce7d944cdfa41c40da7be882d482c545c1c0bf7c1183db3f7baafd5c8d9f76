@@ -1,0 +1,23 @@
+I"�<p>This is a <em>very short</em> <del>blog post</del> list of 10 Python standard library modules (that I think) you <strong>must know</strong> (as of python3.9).
+<!--END EXCERPT--></p>
+
+<p>In the next article, I will explain why I chose these 10.</p>
+
+<p>NOTE: This doesn’t mean you shouldn’t learn the other modules. In fact, this list used to have <strong>20</strong> items.
+I just tediously picked ten with a general audience in mind.</p>
+
+<p>Anyways, here’s the list:</p>
+
+<ul>
+  <li><a href="https://docs.python.org/3/library/pathlib.html">Pathlib</a></li>
+  <li><a href="https://docs.python.org/3/library/re.html">Re</a></li>
+  <li><a href="https://docs.python.org/3/library/subprocess.html">Subprocess</a></li>
+  <li><a href="https://docs.python.org/3/library/os.html">Os</a></li>
+  <li><a href="https://docs.python.org/3/library/argparse.html">Argparse</a></li>
+  <li><a href="https://docs.python.org/3/library/math.html">Math</a></li>
+  <li><a href="https://docs.python.org/3/library/asyncio.html">Asyncio</a></li>
+  <li><a href="https://docs.python.org/3/library/random.html">Random</a></li>
+  <li><a href="https://docs.python.org/3/library/copy.html">Copy</a></li>
+  <li><a href="https://docs.python.org/3/library/sys.html">Sys</a></li>
+</ul>
+:ET

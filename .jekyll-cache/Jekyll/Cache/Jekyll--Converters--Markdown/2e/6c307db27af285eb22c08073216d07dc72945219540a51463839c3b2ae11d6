@@ -1,0 +1,70 @@
+I"�<p>Because it’s great.
+<!--END EXCERPT--></p>
+
+<p>No seriously: I’ve seen <a href="https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License">LGPL</a>, <a href="https://en.wikipedia.org/wiki/MIT_License">MIT</a> (and <a href="https://en.wikipedia.org/wiki/BSD_licenses">BSD</a>), <a href="https://en.wikipedia.org/wiki/Affero_General_Public_License">AGPL</a>, <a href="https://en.wikipedia.org/wiki/Apache_License">Apache</a> (which are pretty great, not gonna lie), but <a href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GPL</a> seems like the way to go!</p>
+
+<h3 id="why-licenses-skip-this-if-you-know-what-licenses-are">Why licenses (skip this if you know what licenses are)</h3>
+
+<p>Being a developer, proprietary or not, you need to tell the user (or client) how they can use the software. Some (bad) people would want to leak your secret code.
+Others may want to steal credit from your <a href="https://en.wikipedia.org/wiki/Open_source">open source</a> (read: <em>free</em>) code. A software license is a file that inform the client what permissions they have over your software.</p>
+
+<p>Basically, it’s a buncha text saying what you can do with this <em>epic code</em>.</p>
+
+<h3 id="tldr">TL;DR</h3>
+
+<p>Here’s a rundown on the licenses:</p>
+
+<ul>
+  <li>
+    <p>MIT (or BSD)-like licenses are just saying “Do anything you want with the software and/or code. Just don’t get me in legal trouble.”</p>
+  </li>
+  <li>
+    <p>Apache License says “Do what you want, just don’t get me in legal trouble. Also, you can’t patent this baby.”</p>
+  </li>
+  <li>
+    <p>GNU GPL (or just GPL): “Yo, you proprietary companies want to use this boy? Come and get it ‘cause you’re gonna have to <strong><em>risk open source-ing your propritary code</em></strong> (and some other conditions). But, I’ve must give everyone the rights to view (the source code), modify, and distribute… sigh: that’s a lot of permissions and.”</p>
+  </li>
+  <li>
+    <p>GNU LGPL (or just LGPL): “I’m just GNU GPL like but y’all proprietary people can use this code. Yes, you’re protected by my permissions” (useful for small libraries)</p>
+  </li>
+  <li>
+    <p>GNU AGPL (or just AGPL): “I’m also like GNU GPL but all modified copies must release the source code.” Useful for servers: it <strong>prevents people from milking your code <em>over a network.</em></strong> So they can’t exactly milk your HTML or JavaScript… HAHA PROPRIETARY COMPANIES!!! 😝</p>
+  </li>
+</ul>
+
+<h3 id="my-choice">My choice</h3>
+
+<p>Now you’ve seen the options, here’s my choice (drumroll please)….</p>
+
+<p><strong>GNU GPL v3+</strong> 😱</p>
+
+<h3 id="why">Why</h3>
+
+<p>When I write code (usually open source and hosted with ❤️  by <a href="https://github.com/">GitHub</a>), I don’t want proprietary companies benefiting (and profiting) from my code when I don’t.</p>
+
+<p>When you license code as GNU GPL, you’re basically saying</p>
+
+<blockquote>
+  <p>Haha! Get rekt, proprietary hoggers! You can’t use my code while other people can!</p>
+</blockquote>
+
+<p>I believe that software should be free…. <strong>as in freedom</strong>. You are free to distibute, use, and modify. Although if you want to fork any project licensed with the GPL (and make the forked code public), it must be <del>open source</del> GNU GPL (v3) (because you also have to make sure the client can see the source code). That’s one of the permissions I must give you.</p>
+
+<p>In other words, I do not want proprietary companies having an advantage. They can’t use my library without making their app GNU GPL. 😝</p>
+
+<p>Even if these licenses seem like there will be no cost, you technically <em>can</em> use it for commercial purposes. It’s just that it’s quite useless to do that: you have to make the code freely distributed where then some guy or girl <em>could</em> (and it’s totally allowed under GNU GPL) distibute a free copy with <strong>zero changes</strong>. Or as much changes as they like.</p>
+
+<p>Like I said, the distributed fork or copy <em>has</em> to be GNU GPL (v3 or the same version of GNU GPL). I’m also pretty sure they’re not allowed to steal credit.</p>
+
+<p>GNU GPL is to code as America is to guns: free as in freedom.</p>
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>Currently, I have spent $0 dollars on the internet. I like that and want to keep it like that: we all benefit from free software. I want everyone to benefit from my code, but not in a way were I <del>won’t get credit</del> cheated on.</p>
+
+<p>For a GNU (new) DAWN! For freedom!</p>
+
+<p><a href="https://xkcd.com/225/"><img src="https://imgs.xkcd.com/comics/open_source.png" alt="xkcd: 225" /></a></p>
+
+<p>Thanks for reading!</p>
+:ET
