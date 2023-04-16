@@ -30,7 +30,7 @@ The first commit signed with my new key was [the commit said before](https://git
 
 Now, remember the step where I said I regretted it? The one where I deleted the old key from my GitHub account? Well, how come my old commits, say [this one](https://github.com/ThatXliner/slashtilities/commit/60c28ac4f981444722ce7140069fad37a7e846b5) is still "verified"?
 
-![](/blog/assets/images/hey-its-still-verified.png)
+![](https://raw.githubusercontent.com/ThatXliner/blog/main/images/hey-its-still-verified.png)
 
 That's because I **recovered it**.
 
