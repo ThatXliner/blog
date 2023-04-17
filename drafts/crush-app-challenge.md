@@ -19,15 +19,15 @@ $$
 \text{Bob} \in \text{Alice's Crushes} \land \text{Alice} \in \text{Bob's Crushes}
 $$
 
-The catch is this: **privacy**. Nobody are allowed to know (or it is infeasible) that X has a crush on Y unless Y also has a crush on X; if so, only X and Y are allowed to know that they have a crush on each other. "Nobody" includes the server that runs the app, so this might as well be decentralized.
+The catch is this: **privacy**. Nobody is allowed to know (or it is infeasible to know) that X has a crush on Y unless Y also has a crush on X; if so, only X and Y are allowed to know that they have a crush on each other. "Nobody" includes the server that runs the app, so this app might as well be decentralized.
 
 ## Take 1: Hashes
 
-The naive solution would be to tell the app `H(Alice + Bob)` (where H is some hash function, and the order of concatenation could be sorted/already decided) in order to tell the app that Alice has a crush on Bob.
+The naive solution would be to tell the app $H(\text{Alice} + \text{Bob})$ (where H is some hash function, and the order of concatenation could be sorted/already decided) in order to tell the app that Alice has a crush on Bob.
 
 The announcement cannot possibly be fully anonymous since you need to sign the hash to prove that you approved the message.
 
-Bob can just see `H(Alice + Bob)`, see if it matches the message of him having a crush on Alice.
+Bob can just see $H(\text{Alice} + \text{Bob})$, see if it matches the message of him having a crush on Alice.
 
 There are 2 problems with this:
 
