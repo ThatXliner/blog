@@ -15,7 +15,9 @@ Let's pretend that I was going to build an app. In this app, you input who you h
 
 Seems pretty simple, right? Alice tells the app she has a crush on Bob. When Bob tells the app that he has a crush on Alice, the server will tell them both that they have a crush on each other. Specifically, it realizes that
 
+$$
 \text{Bob} \in \text{Alice's Crushes} \land \text{Alice} \in \text{Bob's Crushes}
+$$
 
 The catch is this: **privacy**. Nobody are allowed to know (or it is infeasible) that X has a crush on Y unless Y also has a crush on X; if so, only X and Y are allowed to know that they have a crush on each other. "Nobody" includes the server that runs the app, so this might as well be decentralized.
 
