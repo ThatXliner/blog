@@ -5,6 +5,8 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
+import rehypeSlug from "rehype-slug";
+import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
@@ -31,7 +33,7 @@ export default defineConfig({
       ],
       remarkMath,
     ],
-    rehypePlugins: [rehypeKatex],
+    rehypePlugins: [rehypeKatex, rehypeSlug, rehypeAutolinkHeadings],
     shikiConfig: {
       theme: "github-dark",
       wrap: true,
