@@ -5,6 +5,8 @@ pubDatetime: 2023-04-17T03:56:21.967Z
 featured: true
 ---
 
+<!-- TODO: Mermaid diagrams -->
+
 So I had an idea. At first, I thought it was quite dumb and simple. But the more I thought about it, the harder it seemed. It was a problem.
 
 I shared it with a friend. We couldn't think of a good way to solve it. I [shared it with an AI](https://shareg.pt/EowiFo3). It basically gave up (without admitting it).
@@ -105,6 +107,10 @@ A new protocol could work like:
 
 I haven't thought of this through yet.
 
+### Perfect solution??
+
+After a month of stagnant progress, I suddenly realized that the previous solution would work perfectly if a minor fix was added. I'll get to that solution [later in this post](#the-perfect-solution). For now, here's the solutions I've tried to think of before that epiphany.
+
 ## Custom key pair
 
 > ok how about
@@ -191,3 +197,37 @@ But something is wrong...
 # Partial solutions
 
 - [Constant sending](#constant-sending)
+
+# The perfect solution
+
+The only reason [a simple commitment scheme](#simple-commitment-scheme) would not work is because there's the case that Bob doesn't actually have a crush on the person who sent a crush declaration message "to" him (remember: he's effectively the receiver since he's the only one able to decrypt the message).
+
+The fix is simple: just differentiate crush declaration messages and response messages. You could implement this as a simple boolean flag.
+
+```mermaid
+flowchart LR
+    Z(You recieve) --> A
+    Z(You recieve) --> C
+    A[Crush decleration] --> B[Someone has a crush on you]
+    C[Response message] --> D[Useless message]
+```
+Even if someone was malicious and tried to forward and propagate the useless message, it would not affect the network in any harmful way (because remember: the nonces are random. Therefore there's unlikely chance of collision).
+
+## Summary
+
+In conclusion, the protocol works like this:
+
+```mermaid
+flowchart TD
+    aA[You want to publish a crush declaration] --> aB[Generate a random nonce]
+        aB --> aC[Encrypt that nonce with your crush's public key]
+        aC --> aD[Publish the crush declaration message anonymously]
+    zB[You recieved a message that you were able to decrypt] --> bA
+    zB --> cA
+    bA[It was a crush decleration] --> bB[Decrypt it and get the nonce]
+        bB --> bC[Encrypt the nonce with your crush's public key]
+        bC --> bD[Publish the response message anonymously]
+    cA[It was a response message] --> cB[Does it matches the nonce that you sent to your crush?]
+    cB --> |Yes|cC[Your crush has a crush on you as well]
+    cB --> |No|cD[Useless message. Discard]
+```
