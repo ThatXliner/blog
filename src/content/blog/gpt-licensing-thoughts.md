@@ -9,7 +9,7 @@ Here's some thoughts on ChatGPT copyright.
 
 How come people are okay with Google scraping their websites? The bots improve Google's own search engine service and therefore its ad revenue. There's nothing really stopping the bot from accessing publicly accessible data maybe except a `robots.txt` file that **they don't even have to follow**.
 
-![Google doesn't follow robots.txt](https://raw.githubusercontent.com/ThatXliner/blog/main/assets/images/robots-txt.png)
+![Google doesn't follow robots.txt](../../assets/robots-txt.png)
 
 Heck, SEO are guidelines to make your site MORE scrape-able by Google. So surely people are fine with companies (or at least a company) web-scraping their data for profit. This includes any of your blogs, Reddit comments, poems, song lyrics on Genius.com, etc., etc., etc.
 
@@ -21,7 +21,7 @@ If there's any other reason that you wouldn't want ChatGPT be trained on your we
 
 So I don't really understand the deal with the "ambiguous copyright of LLMs". Perhaps it's because LLMs generates text? But you could think of Google as generating text as well: it generates a list of URLs, some highlighted text, maybe some featured content all based on a prompt you give. Sure, Google's search results are based on an algorithm but so is ChatGPT (technically speaking).
 
-![Example Google search result](https://raw.githubusercontent.com/ThatXliner/blog/main/assets/images/test-google-result.png)
+![Example Google search result](../../assets/test-google-result.png)
 
 Is the copyright problem because ChatGPT generates creative works? If so, then LLMs are subject to the same dilemma as image/art generation tools, since art is also a type of creative work. Here’s how I think of it.
 

@@ -11,6 +11,9 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
+  experimental: {
+    assets: true,
+  },
   base: "/blog",
   site: "https://thatxliner.github.io",
   integrations: [
