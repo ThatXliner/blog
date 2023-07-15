@@ -4,6 +4,7 @@ import react from "@astrojs/react";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import remarkMath from "remark-math";
+import remarkFigureCaption from "@microflash/remark-figure-caption";
 import rehypeKatex from "rehype-katex";
 import rehypeSlug from "rehype-slug";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
@@ -35,6 +36,7 @@ export default defineConfig({
         },
       ],
       remarkMath,
+      remarkFigureCaption,
     ],
     rehypePlugins: [rehypeKatex, rehypeSlug, rehypeAutolinkHeadings],
     shikiConfig: {
