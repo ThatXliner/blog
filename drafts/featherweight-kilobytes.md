@@ -6,7 +6,7 @@ pubDatetime: 2023-06-01T17:30:24Z
 
 In the JavaScript world, you've probably seen something like this:
 
-!["light as a feather"](https://raw.githubusercontent.com/ThatXliner/blog/main/assets/images/light-as-a-feather.png)
+!["light as a feather"](../../assets/light-as-a-feather.png)
 
 (from the [PrismJS](https://prismjs.com/) website)
 
