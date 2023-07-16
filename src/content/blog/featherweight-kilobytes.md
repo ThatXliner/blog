@@ -51,11 +51,11 @@ So we now got our conversion rate: convert the amount of **bytes to grams** by m
 
 ## Let's have some fun
 
-A feather weighs, on average, [0.0082 grams](https://weightofthing.com/weight-of-feather/). Our paper is around 5 grams. Alkaline AA batteries weigh around [23 grams](<https://en.wikipedia.org/wiki/AA_battery#:~:text=Alkaline%20AA%20cells%20have%20a,31%20g%20(1.1%20oz).>). Apples weigh [70-100g](https://ryansjuice.com/blog/how-many-apples-in-a-pound#:~:text=The%20average%20apple%20is%20between,3%20apples%20in%20a%20pound.).
+A feather weighs, on average, [0.0082 grams](https://weightofthing.com/weight-of-feather/). Our paper is around 5 grams. Alkaline AA batteries weigh around [23 grams](<https://en.wikipedia.org/wiki/AA_battery#:~:text=Alkaline%20AA%20cells%20have%20a,31%20g%20(1.1%20oz).>). Apples weigh [70-100 grams](https://ryansjuice.com/blog/how-many-apples-in-a-pound#:~:text=The%20average%20apple%20is%20between,3%20apples%20in%20a%20pound.).
 
-Let's compare the weights of some popular JavaScript UI libraries (minified + gzip, according to [Bundlephobia](https://bundlephobia.com/)).
+Let's compare the sizes of some popular JavaScript UI libraries (minified + gzip, according to [Bundlephobia](https://bundlephobia.com/)).
 
-| JS Library                      | Weight                                                   |
+| JS Library                      | Size                                                     |
 | ------------------------------- | -------------------------------------------------------- |
 | angular@1.8.3                   | 62.3kB                                                   |
 | react@18.2.0 + react-dom@18.2.0 | 2.5kB + 42kB = 44.5kB                                    |
