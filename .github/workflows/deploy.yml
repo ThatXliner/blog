@@ -20,10 +20,24 @@ jobs:
     steps:
       - name: Checkout your repository using git
         uses: actions/checkout@v3
-      - name: Install, build, and upload your site
-        uses: withastro/action@v0
+      - name: Setup PNPM
+        uses: pnpm/action-setup@v2.2.4
         with:
-          node-version: 19 # The specific version of Node that should be used to build your site. Defaults to 16. (optional)
+          version: 8.x.x
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 19
+          cache: "pnpm"
+          cache-dependency-path: "pnpm-lock.yaml"
+      - name: Install
+        run: pnpm install
+      - name: Build
+        run: pnpm run build
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: "dist/"
 
   deploy:
     needs: build
