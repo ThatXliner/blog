@@ -9,7 +9,7 @@ In the JavaScript world, you've probably seen something like this:
 
 ![Example from the [PrismJS](https://prismjs.com/) website](../../assets/light-as-a-feather.png)
 
-Sure, it's just an idiom to say that the JavaScript library won't add much to your bundle size (which is something people care very much about). The problem I have with these claims is that you can't actually convert bytes or kilobytes (units of data) to grams or pounds (units of weight).
+Sure, it's just an idiom to say that the JavaScript library won't add much to your bundle size (which is something people care very much about). The problem I have with these claims is that you can't actually convert bytes or kilobytes (units of data) to grams or kilograms (units of weight).
 
 ...or can you?
 
@@ -31,7 +31,7 @@ Your normal printer paper has a weight density of [70-100 GSM](https://www.digit
 
 But now we have to deal with how to put "data" onto the paper. Of course we print things on it, but how should the things be printed? What should be printed?
 
-Again, I'll be follow the MLA format. This means we'll need to format in double line spacing, font size 12, Times New Roman, and 1-inch margins. I'll also _not_ put on a header or page number. MLA format requires single-sided printing, so I'll keep that in mind. That still leaves the question: what data should I put on it?
+Again, I'll be following the MLA format. This means we'll need to format in double line spacing, font size 12, Times New Roman, and 1-inch margins. I've decided to _not_ put on a header or page number. The MLA format requires single-sided printing, so I'll keep that in mind. That still leaves the question: what data should I put on it?
 
 For this test, since we've already decided to use the space-wasting MLA format, we should compensate for it by letting our data be very dense. In that case, we can cover the document with the letter "i" (narrowest letter in the English alphabet), which takes 1 byte to encode (in UTF-8, [the most popular character encoding on the web as of July 2023](https://en.wikipedia.org/wiki/Popularity_of_text_encodings#Popularity_on_the_World_Wide_Web)).
 
