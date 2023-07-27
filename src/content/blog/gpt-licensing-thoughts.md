@@ -7,7 +7,7 @@ featured: true
 
 Here's some thoughts on ChatGPT copyright.
 
-How come people are okay with Google scraping their websites? The bots improve Google's own search engine service and therefore its ad revenue. There's nothing really stopping the bot from accessing publicly accessible data maybe except a `robots.txt` file that **they don't even have to follow**.
+How come people are okay with Google scraping their websites? The bots improve Google's own search engine service and therefore its ad revenue. There's nothing really stopping the bot from accessing publicly accessible data maybe except a `robots.txt` file that **they don't even have to follow**. If you don't want bots to see your site/content, then don't post it in the first place.
 
 ![Google doesn't follow robots.txt](../../assets/robots-txt.png)
 
@@ -16,6 +16,12 @@ Heck, SEO are guidelines to make your site MORE scrape-able by Google. So surely
 But how come people seems to have problems with ChatGPT being trained on their data (assuming that they follow the same rules as Google)? Is it because it's a [paid service](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)? I thought we already established that people don't care that their content is being scraped for profit. For example, paid search engines do exist and I don't hear of people having problems with those.
 
 Is the problem the lack of clear ranking benefits from letting ChatGPT scrape you? What I mean the predictability of your content being present in ChatGPT’s output is unlike Google which has SEO, ranking algorithms, and well-established methods to get your website on top of the results. You may want to be in the results only if you're going to be benefiting from it. Well, your business or whatnot _should be present_ in ChatGPT's output if you already have good coverage across the internet. This is the same with Google's search engine results anyway.
+
+> _Edit 2023-07-26:_ My [Hacker News discussion](https://news.ycombinator.com/item?id=36681353) gave some pretty important points for me to mention. When writing this article, I seemed to ignore 2 things: original purpose of copyright and the legitimate reason for SEO. Yes, having your website indexed by Google drives your traffic, and that ChatGPT may prevent that step or direction to your website, but that isn't a problem if you're trying to sell a product. Once the LLM mentions your product, the user will still go to your site if they want to purchase it. Additionally, AIs such as Bing Chat and [Phind.com](https://www.phind.com/) can help link to your website in their responses.
+>
+> If you're not selling a product, then the other reason that you may want people to visit your site is that you want to share ideas, or creative works. If you wanted to profit from the ideas/works you shared, you should've placed it behind a paywall so web scrapers couldn't access it in the first place.
+>
+> The problem of copyrighted training data is a whole other discussion, but preventing that copyrighted work from being scraped was _already discussed_. A lot of people [don't follow copyright anyway](https://www.youtube.com/watch?v=1Jwo5qc78QU).
 
 If there's any other reason that you wouldn't want ChatGPT be trained on your website, then you really should consider how many other people in the internet are also scraping and using your website. Maybe you shouldn't have made that website public in the first place.
 
