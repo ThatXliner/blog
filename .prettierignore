@@ -3,7 +3,7 @@
 
 # Except these files & folders
 !/src
-/src/assets/*.{png,svg,jpg,jpeg}
+*.{png,svg,jpg,jpeg}
 !/public
 !/.github
 !tsconfig.json
