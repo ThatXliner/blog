@@ -1,5 +1,6 @@
 ---
 title: "The most commonly imported module"
+description: "Not all modules are created equal"
 pubDatetime: 2023-11-12T16:09:22Z
 tags: [python, fun, programming]
 ---
