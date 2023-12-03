@@ -1,6 +1,6 @@
 ---
 title: "My Thoughts on GPT Copyright"
-description: "OpenAI definitely isn't the first people to run web-scrapers"
+description: "OpenAI definitely aren't the first people to run web scrapers"
 pubDatetime: 2023-07-11T08:36:19Z
 featured: true
 ---
