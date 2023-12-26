@@ -13,7 +13,7 @@ const { href, className, ariaLabel, title, disabled = false } = Astro.props;
 <a
   type="button"
   href={disabled ? "#" : href}
-  tabindex={disabled ? "-1" : "0"}
+  tabindex={disabled ? "-1" : undefined}
   class={`group ${className}`}
   aria-label={ariaLabel}
   title={title}
@@ -22,7 +22,7 @@ const { href, className, ariaLabel, title, disabled = false } = Astro.props;
   <slot />
 </a>
 
-<style>
+<style is:global>
   a {
     @apply hover:text-skin-accent;
   }

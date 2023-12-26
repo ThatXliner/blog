@@ -39,13 +39,13 @@ Being old, it means it has a lot of experience. However, it's getting [_more and
 
 Vim, by itself, looks _horrible_. Even with my **epic terminal configuration**, it (without plugins) would look like this:
 
-![Vim without configuration](../../assets/vim-no-config.png)
+![Vim without configuration](@assets/vim-no-config.png)
 
 Ugly.
 
 Of course, **you can configure it**. First off, we would want syntax highlighting. To do that, one would type `:syntax enable`. Now, Vim looks like this:
 
-![Vim without with syntax highlighting (no monokai theme!)](../../assets/vim-syntax-enable.png)
+![Vim without with syntax highlighting (no monokai theme!)](@assets/vim-syntax-enable.png)
 
 Still kinda ugly, but it gets better.
 
@@ -55,7 +55,7 @@ Vim boasts for being _super customizable_. At least, that's it's potential.
 
 To customize vim, you'd need to edit the `.vimrc` in your home directory. The `.vimrc` is kind of like Atom's init file but for Vim. For me, it looks like this:
 
-![My `.vimrc`](../../assets/my-vimrc.png)
+![My `.vimrc`](@assets/my-vimrc.png)
 
 That's cool and all but here's the catch: Vim doesn't have a native package manager: you need to install some yourself.
 
@@ -75,7 +75,7 @@ Personally, I don't think that not using the mouse would make you faster. It doe
 
 Vim is mostly written in [native C](https://github.com/vim/vim/search?l=c).
 
-![Wonder why [my autocomplete](https://www.tabnine.com) thinks Vim is written in JavaScript.](../../assets/tabnine-is-funny.png)
+![Wonder why [my autocomplete](https://www.tabnine.com) thinks Vim is written in JavaScript.](@assets/tabnine-is-funny.png)
 
 In other words, it's blazingly fast. It's fast alright: to test performance, I will open this 223 Kilobyte JSON file using Vim.
 
@@ -91,21 +91,21 @@ I suspect that it can open this file that fast due to the fact that it is **text
 
 Atom, by far, is the most beautiful text editor. Just look at me edit this file:
 
-![Editing this file using Atom](../../assets/editing-blog-with-atom.png)
+![Editing this file using Atom](@assets/editing-blog-with-atom.png)
 
 Hmm, looks kind of ugly. Let's try again. Look at me edit this python script:
 
-![Editing python script using Atom](../../assets/atom-editing-python.png)
+![Editing python script using Atom](@assets/atom-editing-python.png)
 Compared to Vim:
 
-![Editing python using Vim](../../assets/vim-editing-python.png)
+![Editing python using Vim](@assets/vim-editing-python.png)
 
 Well, Vim may seem a little _more clean_: less icons, etc. That's because I haven't customized it that much. Atom, on the other hand, has awesome defaults and an epic UI, giving it a modern feel.
 
 It is a _graphical editor_, unlike Vim.
 
 One problem, The logo _isn't_ exactly the best.
-![Atom's logo](../../assets/atom-icon.png)
+![Atom's logo](@assets/atom-icon.png)
 
 #### Customizability
 

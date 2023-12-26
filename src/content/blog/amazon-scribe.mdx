@@ -4,6 +4,11 @@ description: "Because I wanted an E-ink tablet"
 pubDatetime: 2023-12-25T18:28:12Z
 ---
 
+import Video from "@components/Video.astro";
+import v1 from "@assets/amazon-scribe-notebook.mov?url";
+import v2 from "@assets/weird-notes.mov?url";
+import v3 from "@assets/usb-text-notes.mov?url";
+
 For the Christmas of 2023, my dad gifted me an [Amazon Scribe](https://www.amazon.com/Kindle-Scribe-the-first-Kindle-for-reading-writing-journaling-and-sketching/dp/B0BQPPW5T5) (16 GB), after hearing that I wanted an E-ink tablet such as the [reMarkable](https://remarkable.com) to replace my notebooks. I'm here to document my experience with the Amazon Scribe so far.
 
 This is not really an "objective review" as I'm simply just documenting my experience; some features or limitations that I talk about may not matter to other people.
@@ -78,7 +83,7 @@ So my first thoughts when I unwrapped the Amazon Scribe was how small it was. Th
 
 But when I created a new notebook, I was stunned by its responsiveness. It did not look like your typical e-ink display. I could perceive no noticeable lag. Here's a short video showcasing the note-taking capability:
 
-![](../../assets/amazon-scribe-notebook.mov)
+<Video src={v1} />
 
 And yes, it can function as a normal eBook reader. The note-taking capability on PDFs or eBooks is weird though, as we will see later on.
 
@@ -98,17 +103,17 @@ But wait! Unlike the Kindle eBooks I read from our Amazon Kindle library, I coul
 
 Apparently, the only way to get full annotation features is to have uploaded your PDF via "Send to Kindle."
 
-![Arbitrary limitations on imported PDFs](../../assets/kindle-document-table.png)
+![Arbitrary limitations on imported PDFs](@assets/kindle-document-table.png)
 
 I didn't really want to go through the [hassle of doing that](https://www.amazon.com/sendtokindle) (because that means I would either need to sign into my parent's Amazon account on my computer or get them to upload it for me when they have the time)
 
 Remember how I said I could make notes on the eBooks from my Kindle library? Well I can "take notes" if you're fine with this:
 
-![](../../assets/weird-notes.mov)
+<Video src={v2} />
 
 This is what I mean by taking notes on a PDF uploaded via USB:
 
-![](../../assets/usb-text-notes.mov)
+<Video src={v3} />
 
 (my movements may seem clunky because I'm trying to hold my iPad in one hand to record this)
 

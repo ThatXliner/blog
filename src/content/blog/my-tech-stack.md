@@ -8,7 +8,7 @@ When it comes to full-stack tech stacks, there are a lot of options, from LAMP (
 
 I like the idea of FKit, but since my Google account isn't good enough for Firebase, I propose an alternative: **SupaKit** (Supabase + SvelteKit).
 
-![Teenagers aren't allowed to code, I guess](../../assets/bad-google-account.png)
+![Teenagers aren't allowed to code, I guess](@assets/bad-google-account.png)
 
 ## SupaKit
 
@@ -20,7 +20,7 @@ Another thing about this stack is that I usually create it with [TypeScript](htt
 
 So like the initial creation process would look like this:
 
-![How I initialize a SvelteKit app](../../assets/sveltekit-options.png)
+![How I initialize a SvelteKit app](@assets/sveltekit-options.png)
 
 TypeScript, [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), [Vite](https://vitejs.dev/), [Playwright](https://playwright.dev/), everything.
 

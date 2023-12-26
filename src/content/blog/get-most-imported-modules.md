@@ -33,7 +33,7 @@ Woah that's a lot of lines. Let's see what's the most common ones:
 $ sort output.txt | uniq -c | sort -nr | less
 ```
 
-![The crazy incantation of `sort file.txt | uniq -c | sort -nr | less`](../../assets/sort-uniq-sort-less.png)
+![The crazy incantation of `sort file.txt | uniq -c | sort -nr | less`](@assets/sort-uniq-sort-less.png)
 
 ## The results
 
@@ -66,7 +66,7 @@ And do our `sort | uniq | sort` magic again?
 
 ## The better results
 
-![That's more like it](../../assets/my-results-sort-uniq-sort-less.png)
+![That's more like it](@assets/my-results-sort-uniq-sort-less.png)
 
 In this case, we still have `sys` as a top contender. BUT this time we also have `json` sitting on top, even before `re` and `os`. It's no surprise to see [`requests`](https://requests.readthedocs.io/en/latest/), [`shutil`](https://docs.python.org/3/library/shutil.html), and [`toml`](https://github.com/uiri/toml) on there as well as those are some very useful modules in a wide variety of real projects.
 

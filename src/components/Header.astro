@@ -3,8 +3,8 @@ import { LOGO_IMAGE, SITE } from "@config";
 import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
 
-import logoPNG from "/assets/logo.png";
-import logoSVG from "/assets/logo.svg";
+import logoPNG from "@assets/logo.png";
+import logoSVG from "@assets/logo.svg";
 
 export interface Props {
   activeNav?: "posts" | "tags" | "about" | "search";
@@ -105,7 +105,7 @@ const { activeNav } = Astro.props;
   <Hr />
 </header>
 
-<style>
+<style is:global>
   #skip-to-content {
     @apply absolute -top-full left-16 z-50 bg-skin-accent px-3 py-2 text-skin-inverted transition-all focus:top-4;
   }

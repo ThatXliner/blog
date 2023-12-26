@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 import react from "@astrojs/react";
+import mdx from "@astrojs/mdx";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import remarkMath from "remark-math";
@@ -12,18 +13,12 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  experimental: {
-    assets: true,
-  },
   base: "/blog",
   site: "https://thatxliner.github.io",
   integrations: [
-    tailwind({
-      config: {
-        applyBaseStyles: false,
-      },
-    }),
+    tailwind({ applyBaseStyles: false }),
     react(),
+    mdx(),
     sitemap(),
   ],
   markdown: {
@@ -38,7 +33,12 @@ export default defineConfig({
       remarkMath,
       remarkFigureCaption,
     ],
-    rehypePlugins: [rehypeKatex, rehypeSlug, rehypeAutolinkHeadings],
+    rehypePlugins: [
+      rehypeKatex,
+      rehypeSlug,
+      rehypeAutolinkHeadings,
+      // rehypeVideo,
+    ],
     shikiConfig: {
       theme: "github-dark",
       wrap: true,

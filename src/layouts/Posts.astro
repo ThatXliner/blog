@@ -45,7 +45,9 @@ const next = pageNum < totalPages ? "" : "disabled";
           <svg xmlns="http://www.w3.org/2000/svg" class={`${prev}-svg`}>
             <path d="M12.707 17.293 8.414 13H18v-2H8.414l4.293-4.293-1.414-1.414L4.586 12l6.707 6.707z" />
           </svg>
-          Prev
+          <span class="ml-4">
+            Prev
+          </span>
         </LinkButton>
         <LinkButton
           disabled={next === "disabled"}
@@ -64,7 +66,7 @@ const next = pageNum < totalPages ? "" : "disabled";
   <Footer noMarginTop={totalPages > 1} />
 </Layout>
 
-<style>
+<style is:global>
   .pagination-wrapper {
     @apply mb-8 mt-auto flex justify-center;
   }
