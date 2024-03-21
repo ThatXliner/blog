@@ -57,7 +57,7 @@ GNU GPL is to code as America is to guns: free as in freedom.
 
 ### Conclusion
 
-Currently, I have spent $0 dollars on the internet. I like that and want to keep it like that: we all benefit from free software. I want everyone to benefit from my code, but not in a way were I ~~won't get credit~~ cheated on.
+Currently, I have spent $0 dollars on the internet. I like that and want to keep it like that: we all benefit from free software. I want everyone to benefit from my code, but not in a way where I ~~won't get credit~~ get cheated on.
 
 For a GNU (new) DAWN! For freedom!
 
