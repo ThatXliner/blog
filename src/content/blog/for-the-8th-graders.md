@@ -69,7 +69,7 @@ There are many different programs in this school but in the end, there's only 4 
 - Art
 - Sports
 
-I would recommend you take (or at least apply to) as many after school programs as you have the time and interest. Notice how I didn't list energy as you really don't know your limits unless you test them, which freshman year is perfect for. In my opinion, the maximum amount of categories a sane person can do at a time is 2.
+I would recommend you take (or at least apply to) as many after school programs as you have the time and interest for. Notice how I didn't list energy; you really don't know your limits unless you test them, which freshman year is perfect for. In my opinion, the maximum amount of categories a sane person can do at a time is 2.
 
 That's very limiting (I know), especially when you're part of a large-time-commitment program such as OAE (marching band) or FRC (FIRST Robotics Competition). I could not do both water polo and FRC without compromise. But DO STAY HEALTHY GUYS. Exercise at least every week and sleep at least 8 hours. Enjoy your optimal teenage body.
 
