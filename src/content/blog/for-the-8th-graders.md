@@ -20,11 +20,11 @@ I did 8 classes in my freshman year. Do I regret it? Not really, although **I di
 
 Here are my ClassChoice advice:
 
-- Try to double Chemistry and Biology as this:
-    1. Keep your options open
-    2. Help you meet prerequisites sooner for future programs such as COSMOS (see reason 1)
-    3. Show colleges your interest in science
-    4. Show colleges your willingness to "take a challenge"
+- Try to double Chemistry and Biology because this:
+    1. Keeps your options open
+    2. Helps you meet prerequisites sooner for future programs such as COSMOS (see reason 1)
+    3. Shows colleges your interest in science
+    4. Shows colleges your willingness to "take a challenge"
     5. **May be the only time you are able to double science**. At this time of writing, my counselor told me that I was not going to be able to double physics due to the significant amount of people failing to do this double (i.e. doubling chemistry and physics but doing bad in physics, chem, or both).
 - Do the honors versions of your classes. Not only will this boost your GPA (although honors classes don't matter as much), it helps filter out the "bad kids" so your school experience won't be analogous to trying to listen to someone whilst in the monkey exhibit of the San Diego zoo.
 - I heard Biology Honors is easier than regular; I also heard English Honors is easier than regular. As far as I know, this is pretty much true, so yeah.
