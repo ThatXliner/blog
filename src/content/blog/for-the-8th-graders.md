@@ -26,7 +26,7 @@ Here is my ClassChoice advice:
     3. Shows colleges your interest in science
     4. Shows colleges your willingness to "take a challenge"
     5. **May be the only time you are able to double science**. At this time of writing, my counselor told me that I was not going to be able to double physics due to the significant amount of people failing to do this double (i.e. doubling chemistry and physics but doing bad in physics, chem, or both).
-- Do the honors versions of your classes. Not only will this boost your GPA (although honors classes don't matter as much as AP), it helps filter out the "bad kids" so your school experience won't be analogous to trying to listen to someone whilst in the monkey exhibit of the San Diego zoo.
+- Do the honors versions of your classes. Not only will this boost your GPA (although honors classes don't matter as much as AP), it helps filter out the "bad kids" so your school experience won't be like the monkey exhibit of the San Diego zoo.
 - I heard Biology Honors is easier than regular; I also heard English Honors is easier than regular. As far as I know, this is pretty much true, so yeah.
 - For those in algebra 2 ready to take Pre-Calculus Honors, please try to transfer to Dr. Shim; he makes the tests and the standards and he's historically the better teacher. Additionally, everyone knows this so you'll likely have more friends you can ask about test, homework, etc.
 - For those taking Algebra 2 next year, **please don't slack off in Algebra II**. It's an easy course if you pay attention; don't make it hard on yourself. Keep a positive attitude. I know you can do it!
