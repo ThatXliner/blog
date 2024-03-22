@@ -14,7 +14,7 @@ I'm an academic-focused programmer and musician (so my 2 categories are AMSE and
 
 ## What classes should I take?
 
-In your freshman year, you have the time and you have the resources to be able to try everything, to try every potential aspiration that you would have. For example, if you have the slightest interest or curiosity in business (as I did) and don't know if you want to pursue it as a career, take Business Fundamentals. Business Fundamentals is a prerequisite to many other classes (such as Entrepreneurship Honors) or programs (like DECA), so taking it freshmen year can leave your options open in case you ever suddenly want to switch. In short, try to **keep your options open** (so you won't potentially regret it later on)
+In your freshman year, you have the time and you have the resources to be able to try everything, to try every potential aspiration that you would have. For example, if you have the slightest interest or curiosity in business (as I did) and don't know if you want to pursue it as a career, take Business Fundamentals. Business Fundamentals is a prerequisite to many other classes (such as Entrepreneurship Honors) or programs (like DECA), so taking it freshmen year can leave your options open in case you ever suddenly want to switch. In short, try to **keep your options open** (so you won't potentially regret it later on).
 
 I did 8 classes in my freshman year. Do I regret it? Not really, although **I did envy** when other people were able to sleep in using their open period. They can just wake up at 8am and come to school at 9 o'clock, while I had to wake up at 6 o'clock every single day. But I would recommend you try taking 7 classes for all 4 years if you can, because of my [philosophy](#my-personal-philosophy-for-high-school-in-general)
 
@@ -38,7 +38,26 @@ Here's the thing about APs and Honors though: you **would rather take an easier 
 
 There's a saying that "freshmen grades don't matter that much"; I don't know if that's true or not, but I would stay cautious either way.
 
-There's one class in particular that I want to talk about: AP Computer Science A. It's an extremely easy AP if you've done any sort of basic computer programming before. For me, it was essentially a free period that just so happened to boost my GPA (which, as established before, doesn't matter that much for freshmen). AP classes are better than the honors equivalent because they are widely acknowledged by colleges as "college-level courses" and can even get you college credit (I think...not too sure where I read that).
+There's one class in particular that I want to talk about: AP Computer Science A. It's an extremely easy AP if you've done any sort of basic computer programming before. For me, it was essentially a free period that just so happened to boost my GPA (which, as established before, doesn't matter that much for freshmen). Finally, by taking the course, I can assure programs of my knowledge in Java (which I had never coded in before this year). This quite useful for me as (in addition to currently being in USACO Silver) I can say that I have completed (or am currently doing) AP CS A as a quantitative minimum baseline of my programming skills.
+
+AP classes are better than the honors equivalent because they are widely acknowledged by colleges as "college-level courses" and can even get you college credit (I think...not too sure where I read that).
+
+### How did _I_ decide?
+
+As a STEM kid, I was planning to pursue AMSE Artist:
+
+![](@assets/vcs-amse-artist.png)
+
+And personally, I wanted 4 years of math, 4 years of science, and 4 years of band. PE is also required but history isn't. I also don't like history. And I already talked about my reasoning for CS A and Business Fundamentals. So there we have
+
+- Bible (required)
+- Pre-Calculus H
+- English 9 Honors
+- Biology Honors
+- Symphonic Band (I got into Symphonic Wind Ensemble)
+- PE
+- Business Fundamentals
+- AP CS A
 
 ## What programs should I take?
 
