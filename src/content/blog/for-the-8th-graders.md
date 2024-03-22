@@ -18,7 +18,7 @@ In your freshman year, you have the time and you have the resources to be able t
 
 I did 8 classes in my freshman year. Do I regret it? Not really, although **I did envy** when other people were able to sleep in using their open period. They can just wake up at 8am and come to school at 9 o'clock, while I had to wake up at 6 o'clock every single day. But I would recommend you try taking 7 classes for all 4 years if you can, because of my [philosophy](#my-personal-philosophy-for-high-school-in-general)
 
-Here are my ClassChoice advice:
+Here is my ClassChoice advice:
 
 - Try to double Chemistry and Biology because this:
     1. Keeps your options open
