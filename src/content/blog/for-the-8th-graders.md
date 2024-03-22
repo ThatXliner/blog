@@ -36,7 +36,7 @@ Here is my ClassChoice advice:
 
 Here's the thing about APs and Honors though: you **would rather take an easier course and get an A than take an AP and fail it**. This can show your  ability to know your limits to colleges. Please note that a lot colleges just take your unweighted GPA, so it's at a 4.0 scale (where AP and Honors don't change anything).
 
-There's a saying that "freshmen grades don't matter that much" which I don't know if it's true or not, but I would stay cautious either way.
+There's a saying that "freshmen grades don't matter that much"; I don't know if that's true or not, but I would stay cautious either way.
 
 There's one class in particular that I want to talk about: AP Computer Science A. It's an extremely easy AP if you've done any sort of basic computer programming before. For me, it was essentially a free period that just so happened to boost my GPA (which, as established before, doesn't matter that much for freshmen). AP classes are better than the honors equivalent because they are widely acknowledged by colleges as "college-level courses" and can even get you college credit (I think...not too sure where I read that).
 
