@@ -92,7 +92,13 @@ I'm going to do the ISS baby program next year (and the research program junior 
 
 ## My personal philosophy for high school in general
 
-TODO. Not really important and I wanted to get this blog post out ASAP so.
+Life should be fun. Colleges are not the only thing that matters in life; they should never be the end goal. If studying and school are taking 100% of your free time (to the point where you can't even practice piano or do your hobbies), then you should really reconsider your time management. That's ok: your freshmen year is perfect for experimenting. Try different schedules (like showering right after dinner or taking a nap right after school); try different note-taking systems (like [Obsidian](https://obsidian.md/) or hand-written, color-coded notes); it's a good time to think about philosophy, or how you're going to perceive the world.
+
+Life is meant to be lived for and worship God daily ("...whatever you do, do it all for the glory of God." 1 Corinthians 10:31). Have fun with friends, but don't drag them down. Build each other up.
+
+Find an interesting hobby or something to do in free time. But studying and doing well in school is important. There is a reason to do well: give everything you got or else you’ll regret that you didn’t. If you didn’t get into MIT, you should never be able to say "well I should’ve tried harder."
+
+However, there are things in life that you cannot control. Accept that fact. But do the best you can **so you know for sure** you failed because of a factor **you could not control**.
 
 ## Conclusion
 
