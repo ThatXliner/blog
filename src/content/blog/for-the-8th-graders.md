@@ -76,7 +76,7 @@ That's very limiting (I know), especially when you're part of a large-time-commi
 If I could go back in time and re-do 9th grade, the programs I would apply for (as they don't conflict) would be:
 
 - FRC (but you could also apply to RoboQuest as it's like a watered-down FRC)
-- ~~ISS baby program~~ (conflicts with FRC as it's every Monday)
+- ~~ISS baby program~~ (conflicts with FRC as it's every Monday and Wednesday I think??)
 - Debate
 - Math team (because all my friends are there so if I don't, I'm lonely during Thursday lunches)
 
@@ -84,11 +84,17 @@ Funny enough, these are the programs I'm thinking of doing next year. I heard de
 
 ### My program experiences
 
-I **regret _only_ doing FRC**. I had gone all in because I was told it was selective. Funny story, since I was applying to the software division for FRC and got in, I had to get interviewed as the final step of the application. When I walked into the room, I already knew that I was going to get in: the 2 people who were interviewing me were the software leads who I knew before I applied to FRC. At that moment I knew _oh this is going to be easy_. Networking is powerful.
+I **regret _only_ doing FRC**. I had gone all in because I was told it was selective. What I can say is that if you want to do it well (which you should be), expect to spend a lot of time. You'll learn a lot in FRC, and it's not just robotics.
 
 The ISS research lab in our school is really good, so if you didn't do the baby program in 8th grade (which is a hard prerequisite that you can't skip) I would recommend you do that right now in your freshman year.
 
-I'm going to do the ISS baby program next year (and the research program junior year) because I didn't realize that the ISS program was actually that good. You actually can get a real paper published if you do well, and it's going to be impressive too. This is because it's actually something no one has done before even if all they do is take an existing research topic and slap the words "the effects of microgravity on" in front of the entire research topic.
+I'm going to do the ISS baby program next year (and the research program junior year) because I didn't realize that our school's ISS program was actually that good. My original reason for not doing ISS (this year) was because I was like "nah I don't care that much about space."
+
+You can actually get a real paper published if you do well, and it's going to be impressive too. I'm not part of the program so I can't really say much, but think of this: by nature, the papers you publish (if you do) in the ISS program will be super impressive because of just how unique the opportunity is. For example (not saying this is what they do but just in theory), if you take an existing research topic and slap the words "the effects of microgravity on" in front of it, it's a completely new and innovative topic to research about.
+
+Our school's [XPRIZE](https://www.xprize.org/) program is in a similar situation too: XPRIZE isn't even meant for high schoolers (but instead like organizations and business _around the world_).
+
+Obviously, these programs are said to be competitive as well. You don't need to wake up early to apply because these programs are application-based (not first-come-first-serve). I wish I knew this beforehand :sob:
 
 ## My personal philosophy for high school in general
 
