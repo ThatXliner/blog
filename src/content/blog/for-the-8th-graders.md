@@ -11,7 +11,7 @@ When you're trying to choose what you want to do next year, like the classes and
 
 ## A bit about me
 
-I'm an academic-focused programmer and musician (so my 2 categories are AMSE and Music) that goes to Valley Christian because it's a Christian school. I would recommend you read my [philosophy on high school](#my-personal-philosophy-for-high-school-in-general) at the end of this blog as it should really help with showing you my internal reasons for my decisions.
+I'm an academic-focused programmer and musician (so my 2 categories are AMSE and Music) who goes to Valley Christian because it's a Christian school. I would recommend you read my [philosophy on high school](#my-personal-philosophy-for-high-school-in-general) at the end of this blog as it should really help with showing you my internal reasons for my decisions.
 
 ## What classes should I take?
 
