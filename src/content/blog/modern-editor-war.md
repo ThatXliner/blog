@@ -3,6 +3,7 @@ title: "The modern editor war"
 pubDatetime: 2020-11-09
 author: "ThatXliner (co-authored by KomodoKode)"
 description: "Goodbye, Emacs"
+tags: [fun, programming, rant]
 ---
 
 I've been using Atom ever since last summer. Now I see the alternatives, I still prefer Atom. This is an article on _why_, heavily inspired by [this dev.to discussion](https://dev.to/ben/is-there-a-future-for-the-atom-editor-5dno).

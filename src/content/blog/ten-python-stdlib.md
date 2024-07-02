@@ -2,6 +2,7 @@
 title: "A random list of ten Python standard library modules you must learn know"
 description: "This is a *very short* ~~blog post~~ list of 10 Python standard library modules (that I think) you **must know** (as of python3.9)."
 pubDatetime: 2020-11-04
+tags: [programming]
 ---
 
 This is a _very short_ ~~blog post~~ list of 10 Python standard library modules (that I think) you **must know** (as of python3.9).

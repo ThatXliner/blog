@@ -2,6 +2,7 @@
 title: "Why I use GNU GPL (v3+)"
 description: Because it's great.
 pubDatetime: 2020-11-12
+tags: [thoughts, philosophy]
 ---
 
 Because it's great.

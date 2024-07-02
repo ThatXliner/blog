@@ -2,7 +2,7 @@
 title: "For you 8th graders out there"
 description: "Advice I wish I knew before my freshmen year"
 pubDatetime: 2024-03-22T05:35:09Z
-tags: ["high school", "advice", "life"]
+tags: ["high school", "advice", "life", "school"]
 ---
 
 **Please note that the content in this post is directed specifically to Valley Christian 8th graders going to Valley Christian High School**

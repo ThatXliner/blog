@@ -2,6 +2,7 @@
 title: "13 random reasons why i still use atom"
 pubDatetime: 2020-12-19
 description: Just a little rant/vent.
+tags: [programming, rant, thoughts]
 ---
 
 1. Intuitive Git integration

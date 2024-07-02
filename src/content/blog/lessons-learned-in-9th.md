@@ -2,7 +2,7 @@
 title: "Everything (non-academically) I learned in my freshmen year"
 description: "All the pain, lessons, and regrets in this past year"
 pubDatetime: 2024-06-12T04:10:30Z
-tags: ["high school", "advice", "life"]
+tags: ["high school", "advice", "life", "school"]
 ---
 
 See also, [my advice for the incoming freshmen of Valley Christian High School](https://thatxliner.github.io/blog/posts/for-you-8th-graders-out-there/).

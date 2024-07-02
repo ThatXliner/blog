@@ -2,6 +2,7 @@
 title: "I had to change my GPG key"
 description: And it wasn't my fault.
 pubDatetime: 2021-07-03
+tags: [programming, cryptography]
 ---
 
 And it wasn't my fault.

@@ -2,6 +2,7 @@
 title: "SupaKit"
 description: "My ideal full-stack tech stack"
 pubDatetime: 2023-09-09T17:53:02
+tags: [programming, thoughts]
 ---
 
 When it comes to full-stack tech stacks, there are a lot of options, from LAMP (Linux, Apache, MySQL, PHP), MEAN (MongoDB, Express.js, AngularJS (or Angular), and Node.js), MERN (like MEAN but using ReactJS instead of Angular), [T3](https://create.t3.gg/), or [Fireship's FKit](https://www.youtube.com/watch?v=rFP7rUYtOOg) (Firebase + SvelteKit).
