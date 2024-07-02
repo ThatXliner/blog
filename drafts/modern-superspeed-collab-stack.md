@@ -1,2 +1,3 @@
- - Graphite and stacking.dev
- - Zed for collaboration
+- Graphite and stacking.dev
+- Zed for collaboration
+- Linear for task management
