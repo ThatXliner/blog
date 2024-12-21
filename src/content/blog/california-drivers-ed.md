@@ -5,6 +5,8 @@ pubDatetime: 2024-12-21T20:45:21Z
 tags: [life, high school, school]
 ---
 
+**PLEASE NOTE THIS IS NOT LEGAL ADVICE. I HAVE NO LIABILITY WITH IF YOU DO OR DO NOT RESPECT WHAT I SAY HERE.** Read on once you have that in mind.
+
 So I'm on my permit right now, but I got a clear idea of what I need to do to get my license. I'm older than a lot of my friends so it was only until recently that a lot of my friends has started to catch up in terms of age and began to ask me for advice. I thought I'd write a blog post about it so that I can just refer them to this post instead of repeating myself over and over again. I'll try to keep this as short as possible.
 
 Also note that the California DMV actually has a nice guide for teen drivers [here](https://www.dmv.ca.gov/portal/teen-drivers/).
