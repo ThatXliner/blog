@@ -22,7 +22,7 @@ It's (or actually, a friend referred me to it) for only $10 (!!). I don't recomm
 You will need to create an account first and you will also need your social security number at some point.
 </details>
 
-3. Review the [DMV handbook](https://www.dmv.ca.gov/portal/driver-handbooks/).
+3. Review the [DMV handbook](https://www.dmv.ca.gov/portal/driver-handbooks/). I would also recommend practice tests [on this app](https://apps.apple.com/us/app/ca-dmv-permit-test-now/id1092897684).
 4. Take the test online.
 
 <details>
