@@ -2,6 +2,7 @@
 title: "How to get a Driver's License in California"
 description: "A guide for my friends who are starting to get their driver's license"
 pubDatetime: 2024-12-21T20:45:21Z
+featured: true
 tags: [life, high school, school]
 ---
 
