@@ -5,7 +5,7 @@ pubDatetime: 2024-07-02T18:03:02Z
 tags: [notes, school, "high school"]
 ---
 
-Note: this is part 2 of the [original blog post I wrote](./my-experience-with-the-kindle-scribe-part-1). If you haven't read it yet, go check it out as it is a brief overview of my first impressions of the Kindle Scribe
+Note: this is part 2 of the [original blog post I wrote](../my-experience-with-the-kindle-scribe-part-1). If you haven't read it yet, go check it out as it is a brief overview of my first impressions of the Kindle Scribe
 
 ## Introduction
 
