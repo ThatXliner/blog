@@ -63,7 +63,7 @@ One thing I learned to use is the histogram. When I originally saw it, I kind of
 And now... Well the results speak for themselves. Here is the JPEG from the camera (I shoot in JPEG+RAW):
 
 ![Before](@assets/IMG_8017.JPG)
-![After](@assets/IMG_8017_edited.JPG)
+![After](@assets/IMG_8017_edited.jpg)
 
 ## Conclusion
 
