@@ -1,5 +1,6 @@
 ---
 title: "What I've learned about photography so far"
+description: "Yet another new hobby..."
 pubDatetime: 2025-02-20T17:02:21Z
 tags: ["photography", "life"]
 ---
