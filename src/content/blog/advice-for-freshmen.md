@@ -149,6 +149,8 @@ Use this time to figure out:
 
 That’s also why residential programs can be valuable — they teach you what environments you thrive in.
 
+Obviously since you can't get into programs for all of the schools you may plan to apply to, you could (and should?) visit those colleges campus to interview students (...or not if you're too chicken) to get to know student life or simply to get a vibe-check of the place (I personally LOVE the vibe of UCLA).
+
 ## Jobs and Volunteering Are More Valuable Than They Look
 
 Part-time jobs are underrated. They’re real responsibility and real experience, even if they don’t sound academic.
