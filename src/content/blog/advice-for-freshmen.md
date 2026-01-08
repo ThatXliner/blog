@@ -115,7 +115,7 @@ Projects generate answers to that question naturally.
 Some real examples:
 
   -	Someone built their own car and got into MIT.
-  -	A friend built small, simple projects, posted them on YouTube (EvanZhouDev), and ended up being noticed by a startup CEO who reached out to hire him.
+  -	My friend built small, simple projects, posted them on YouTube, and ended up being noticed by a startup CEO who reached out to hire him.
   -	Someone built their own laptop from scratch and received major media attention.
   -	I wouldn’t know cryptography if I hadn’t decided in middle school to build a chat app and Google everything (there was no ChatGPT then).
 
