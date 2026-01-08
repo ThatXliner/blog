@@ -30,6 +30,7 @@ Before you search for summer programs, you need to answer a much more basic ques
 Take COSMOS. It doesn’t give college credit. So why do so many students apply?
 
 Because it offers things that are genuinely hard to get otherwise:
+
   -	Living on a UC campus
   -	Meeting real professors and forming long-term connections
   -	Experiencing what college life actually feels like
@@ -48,6 +49,7 @@ Most summer programs are not great value.
 They exist because high school students (and parents) are willing to pay a lot of money for anything that sounds impressive. That doesn’t mean they’re all bad — but it does mean you should be careful.
 
 A few rough signals:
+
   -	The strongest programs are often free (like MIT RSI), but extremely selective.
   -	If a program costs hundreds of dollars per day, you should ask what you’re guaranteed to gain.
   -	Many “research programs for high schoolers” are only loosely connected to real research and mainly money scams.
@@ -58,6 +60,7 @@ I did an "online high school research program" freshman summer. Maybe I didn’t
 On the flip side, last summer I went to COSMOS. I loved that, and I definitely do not regret it. Even if it didn't provide me with any "actual" academic value (e.g. college credit or a published research paper), I learned a lot about quantum mechanics and had lots of fun with friends.
 
 But you don't know if you'll have fun or not. How should you decide which summer programs to apply to? Let me give COSMOS as an example. With COSMOS, I knew exactly what I’d get:
+
   -	A professor
   -	Campus life
   -	A new city... or at least the UC campus (Santa Cruz... but we went to the boardwalk!)
@@ -75,6 +78,7 @@ It’s supposed to be formative.
 You don’t need to have a perfectly planned path. In fact, most people who think they do end up changing it later.
 
 This is the time to:
+
   -	Explore interests
   -	Try things you’re curious about
   -	Figure out what you don’t like just as much as what you do
@@ -84,6 +88,7 @@ This is the time to:
 One of the biggest regrets I have is not spending enough time on projects I genuinely wanted to build.
 
 A lot of students think projects require:
+
   -	Experience
   -	Mentors
   -	A big idea
@@ -96,6 +101,7 @@ Engineering and creative projects can be simple. Many great ones already exist i
 What matters is that you made something.
 
 Why? Because projects give you:
+
   -	Real problem-solving experience
   -	Stories you can actually talk about
   -	Skills you didn’t know you’d need until you needed them
@@ -107,6 +113,7 @@ College applications love prompts like:
 Projects generate answers to that question naturally.
 
 Some real examples:
+
   -	Someone built their own car and got into MIT.
   -	A friend built small, simple projects, posted them on YouTube (EvanZhouDev), and ended up being noticed by a startup CEO who reached out to hire him.
   -	Someone built their own laptop from scratch and received major media attention.
@@ -135,6 +142,7 @@ A lot of upperclassmen give this advice for a reason:
 You probably don’t know what kind of college you actually want yet.
 
 Use this time to figure out:
+
   -	Do you like small or large classes?
   -	City campuses or quieter ones?
   -	Lecture-heavy or hands-on building?
@@ -146,6 +154,7 @@ That’s also why residential programs can be valuable — they teach you what e
 Part-time jobs are underrated. They’re real responsibility and real experience, even if they don’t sound academic.
 
 Volunteering is common — what matters is what you actually do:
+
   -	Who did you help?
   -	How did things change because of you?
   -	Can you explain your impact clearly?
