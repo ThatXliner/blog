@@ -96,9 +96,9 @@ A lot of students think projects require:
 
 They don’t.
 
-Engineering and creative projects can be simple. Many great ones already exist in some form. That’s fine.
+Engineering and creative projects can be simple. Many great products already exist in some form. That’s fine.
 
-What matters is that you made something.
+What matters is that *you* made something.
 
 Why? Because projects give you:
 
