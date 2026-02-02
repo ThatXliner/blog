@@ -2,7 +2,6 @@
 title: I Hate Sophomore Year (part 1)
 pubDatetime: 2025-07-15T20:43:52Z
 description: "So this wasn't in fact shorter than last year"
-featured: true
 ---
 
 So *this* is why they say high school is hard. It's not the academics (at least for me). In fact, compared to what were hard (for me at least), the academics were a cakewalk.
