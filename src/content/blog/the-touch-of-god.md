@@ -1,10 +1,10 @@
 ---
 title: "The Touch of God"
-date: 2026-06-13T03:00:28Z
+pubDatetime: 2026-06-13T03:00:28Z
 description: "The three magical days we had with Claude Fable 5"
 ---
 
-![Creation of Adam](@assets/creation-of-adam.png)
+![Creation of Adam](@assets/creation-of-adam.jpg)
 
 It's the middle of 2026 and the world's most powerful AI model dropped. Suddenly, everybody is creating indie games with full-on 3D assets and animations and particles and everything that would have otherwise taken a whole team of designers and months of work.
 
