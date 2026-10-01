@@ -110,9 +110,9 @@ What you are doing here is essentially trying to trap the person in their evil p
 
 ### Also, can we just be honest?
 
- Let's say you really do not like AI, but you don't have a reason for that opinion. Just admit that you don't have a good reason for it.
+Let's say you really do not like AI, but you don't have a reason for that opinion. Just admit that you don't have a good reason for it.
 
-It's perfectly fine to have unfounded opinions; not everything needs to be completely justified. However, the issue arises when you hold on to that opinion *as if it's an established fact*, or some rigorously derived thesis. And that is what you do when you push that idea onto other people ("argh you AI user!" or "why are you using ai???").
+It's perfectly normal to have unfounded opinions; not everything needs to be completely justified. Of course, prejudice is bad, but the issue arises when you hold on to that opinion *as if it's an established fact*, or some rigorously derived thesis. And that is what you do when you push that idea onto other people ("argh you AI user!" or "why are you using ai???").
 
 ## Conclusion
 
