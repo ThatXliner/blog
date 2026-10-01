@@ -2,6 +2,7 @@
 title: "Another google easter egg"
 description: "Marquee..."
 pubDatetime: 2022-02-11
+dateOnly: true
 tags: [fun]
 ---
 

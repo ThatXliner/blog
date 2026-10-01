@@ -1,6 +1,7 @@
 ---
 title: "The modern editor war"
 pubDatetime: 2020-11-09
+dateOnly: true
 author: "ThatXliner (co-authored by KomodoKode)"
 description: "Goodbye, Emacs"
 tags: [fun, programming, rant]

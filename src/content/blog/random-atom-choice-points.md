@@ -1,6 +1,7 @@
 ---
 title: "13 random reasons why i still use atom"
 pubDatetime: 2020-12-19
+dateOnly: true
 description: Just a little rant/vent.
 tags: [programming, rant, thoughts]
 ---

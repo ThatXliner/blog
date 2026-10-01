@@ -12,7 +12,8 @@
     "format": "prettier --write .",
     "cz": "cz",
     "prepare": "husky",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "test": "node --experimental-strip-types --test tests/*.test.mjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.9",

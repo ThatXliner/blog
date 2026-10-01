@@ -1,6 +1,7 @@
 ---
 title: "Hash functions applied in unexpected real life situations"
 pubDatetime: 2022-05-21
+dateOnly: true
 description: "Who knew cryptographic hashes were so awesome?"
 tags: [school, fun, programming, cryptography, "middle school"]
 ---

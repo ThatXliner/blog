@@ -1,10 +1,24 @@
+import { useEffect, useState } from "react";
+import { formatDatetime } from "../utils/formatDatetime";
+
 export interface Props {
   datetime: string | Date;
+  dateOnly?: boolean;
   size?: "sm" | "lg";
   className?: string;
 }
 
-export default function Datetime({ datetime, size = "sm", className }: Props) {
+export default function Datetime({
+  datetime,
+  dateOnly = false,
+  size = "sm",
+  className,
+}: Props) {
+  const [timeZone, setTimeZone] = useState<string | undefined>(
+    "America/Los_Angeles"
+  );
+  useEffect(() => setTimeZone(undefined), []);
+
   return (
     <div className={`flex items-center space-x-2 opacity-80 ${className}`}>
       <svg
@@ -19,32 +33,21 @@ export default function Datetime({ datetime, size = "sm", className }: Props) {
       </svg>
       <span className="sr-only">Posted on:</span>
       <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
-        <FormattedDatetime datetime={datetime} />
+        <time
+          dateTime={
+            dateOnly
+              ? new Date(datetime).toISOString().slice(0, 10)
+              : new Date(datetime).toISOString()
+          }
+          data-local-datetime
+          data-date-only={dateOnly ? "true" : undefined}
+        >
+          {formatDatetime(datetime, {
+            dateOnly,
+            timeZone,
+          })}
+        </time>
       </span>
     </div>
   );
 }
-
-const FormattedDatetime = ({ datetime }: { datetime: string | Date }) => {
-  const myDatetime = new Date(datetime);
-
-  const date = myDatetime.toLocaleDateString([], {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  });
-
-  const time = myDatetime.toLocaleTimeString([], {
-    hour: "2-digit",
-    minute: "2-digit",
-  });
-
-  return (
-    <>
-      {date}
-      <span aria-hidden="true"> | </span>
-      <span className="sr-only">&nbsp;at&nbsp;</span>
-      {time}
-    </>
-  );
-};

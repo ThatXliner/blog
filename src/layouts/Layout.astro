@@ -79,10 +79,26 @@ const socialImageURL = new URL(
         />
       )
     }
-    <script defer src="https://cloud.umami.is/script.js" data-website-id="9a84d8c0-2e4a-4c1e-9d14-6aec70c78dcd"></script>
+    <script
+      is:inline
+      defer
+      src="https://analytics.bryanhu.com/script.js"
+      data-website-id="ea8328c1-8e45-489b-a45e-85435bc99055"
+      data-domains="thatxliner.github.io"
+    ></script>
     <script is:inline src="/blog/toggle-theme.js"></script>
   </head>
   <body>
     <slot />
   </body>
 </html>
+
+<script>
+  import { formatDatetime } from "../utils/formatDatetime";
+
+  document.querySelectorAll<HTMLTimeElement>("time[data-local-datetime]").forEach(time => {
+    time.textContent = formatDatetime(time.dateTime, {
+      dateOnly: time.dataset.dateOnly === "true",
+    });
+  });
+</script>

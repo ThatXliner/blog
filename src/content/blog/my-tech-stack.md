@@ -1,7 +1,7 @@
 ---
 title: "SupaKit"
 description: "My ideal full-stack tech stack"
-pubDatetime: 2023-09-09T17:53:02
+pubDatetime: 2023-09-09T17:53:02-07:00
 tags: [programming, thoughts]
 ---
 

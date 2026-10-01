@@ -1,0 +1,39 @@
+<section aria-labelledby="comments-heading" class="mt-10">
+  <h2 id="comments-heading" class="mb-2 text-xl font-semibold">Comments & reactions</h2>
+  <p class="mb-4 text-sm opacity-80">Sign in with GitHub to leave a comment or a reaction.</p>
+  <div class="giscus"></div>
+  <p class="mt-3 text-sm">
+    <a href="https://github.com/ThatXliner/blog/discussions" class="underline">View discussions on GitHub</a>
+  </p>
+</section>
+
+<script>
+  const theme = () => document.documentElement.dataset.theme === "dark" ? "dark" : "light";
+  const script = document.createElement("script");
+  script.src = "https://giscus.app/client.js";
+  script.async = true;
+  script.crossOrigin = "anonymous";
+  const attributes = {
+    "data-repo": "ThatXliner/blog",
+    "data-repo-id": "MDEwOlJlcG9zaXRvcnkzMDMxNjE3MTY=",
+    "data-category": "Announcements",
+    "data-category-id": "DIC_kwDOEhHhdM4DGz93",
+    "data-mapping": "pathname",
+    "data-strict": "1",
+    "data-reactions-enabled": "1",
+    "data-emit-metadata": "0",
+    "data-input-position": "top",
+    "data-theme": theme(),
+    "data-lang": "en",
+    "data-loading": "lazy",
+  };
+  Object.entries(attributes).forEach(([key, value]) => script.setAttribute(key, value));
+  document.querySelector(".giscus")?.append(script);
+
+  new MutationObserver(() => {
+    document.querySelector<HTMLIFrameElement>("iframe.giscus-frame")?.contentWindow?.postMessage(
+      { giscus: { setConfig: { theme: theme() } } },
+      "https://giscus.app"
+    );
+  }).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+</script>
