@@ -3,7 +3,7 @@ title: "Performative Morality Is Corrupting Our Youth"
 description: "Philosophy! Logic!"
 pubDatetime: 2026-10-01T03:43:21Z
 featured: false
-tags: [life, high school, school]
+tags: [life, philosophy]
 ---
 
 **Disclaimer: minor ai rewrites of some sentences (like 4) bc I wanted a second set of eyes; i'm quite bad at phrasing things**
