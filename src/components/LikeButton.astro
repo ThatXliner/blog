@@ -1,0 +1,72 @@
+---
+interface Props { post: string }
+const { post } = Astro.props;
+---
+
+<div class="my-8" data-like-post={post}>
+  <button
+    type="button"
+    class="focus-outline rounded border border-skin-accent px-4 py-2 hover:text-skin-accent disabled:cursor-default"
+    aria-pressed="false"
+    aria-describedby="like-status"
+    disabled
+  >
+    <span aria-hidden="true">♡</span> <span data-like-label>Like</span>
+    <span data-like-count></span>
+  </button>
+  <p id="like-status" class="mt-2 text-sm opacity-80" aria-live="polite">No sign-in needed.</p>
+</div>
+
+<script>
+  const root = document.querySelector<HTMLElement>("[data-like-post]");
+  if (root) {
+    const button = root.querySelector<HTMLButtonElement>("button")!;
+    const label = root.querySelector<HTMLElement>("[data-like-label]")!;
+    const count = root.querySelector<HTMLElement>("[data-like-count]")!;
+    const heart = button.querySelector("span")!;
+    const status = root.querySelector<HTMLElement>("[aria-live]")!;
+    const post = root.dataset.likePost!;
+    const endpoint = "https://likes.bryanhu.com/likes";
+    const key = `blog-liked:${post}`;
+    let liked = false;
+    let visitorId = crypto.randomUUID();
+    try {
+      liked = localStorage.getItem(key) === "true";
+      const storedId = localStorage.getItem("blog-like-visitor");
+      if (storedId) visitorId = storedId as `${string}-${string}-${string}-${string}-${string}`;
+      else localStorage.setItem("blog-like-visitor", visitorId);
+    } catch { /* Likes still work when browser storage is unavailable. */ }
+    const reflect = () => {
+      button.disabled = liked;
+      button.setAttribute("aria-pressed", String(liked));
+      label.textContent = liked ? "Liked" : "Like";
+      heart.textContent = liked ? "♥" : "♡";
+    };
+    reflect();
+    fetch(`${endpoint}?post=${encodeURIComponent(post)}`)
+      .then(async response => {
+        if (!response.ok) throw new Error("Likes unavailable");
+        count.textContent = ` · ${(await response.json()).count}`;
+      })
+      .catch(() => { status.textContent = "Likes are temporarily unavailable. Try again shortly."; });
+    button.addEventListener("click", async () => {
+      button.disabled = true;
+      try {
+        const response = await fetch(endpoint, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ post, visitorId }),
+        });
+        if (!response.ok) throw new Error("Could not save like");
+        count.textContent = ` · ${(await response.json()).count}`;
+        liked = true;
+        try { localStorage.setItem(key, "true"); } catch { /* Optional browser storage. */ }
+        status.textContent = "Thanks for reading!";
+      } catch {
+        status.textContent = "Couldn’t save your like. Please try again.";
+      } finally {
+        reflect();
+      }
+    });
+  }
+</script>

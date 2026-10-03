@@ -24,3 +24,6 @@ pnpm-debug.log*
 
 # ignore Jampack cache files
 .jampack/
+
+# anonymous likes database
+services/likes/data/

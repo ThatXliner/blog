@@ -1,0 +1,20 @@
+services:
+  likes:
+    image: node:24-alpine
+    restart: unless-stopped
+    init: true
+    working_dir: /app
+    command: node server.mjs
+    environment:
+      DATABASE_PATH: /data/likes.sqlite
+      PORT: 3015
+    volumes:
+      - ./server.mjs:/app/server.mjs:ro
+      - ./data:/data
+    ports:
+      - "127.0.0.1:3015:3015"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:3015/health').then(r=>{if(!r.ok)process.exit(1)}).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
