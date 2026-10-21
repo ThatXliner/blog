@@ -4,3 +4,7 @@ allowBuilds:
   sharp: true
 minimumReleaseAgeExclude:
   - eslint@10.5.0
+
+overrides:
+  "undici": "^6.29.1"
+  "h3": "^1.15.11"
