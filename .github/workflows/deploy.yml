@@ -24,7 +24,7 @@ jobs:
         uses: withastro/action@v5
         with:
           package-manager: pnpm@latest
-          node-version: 22 # The specific version of Node that should be used to build your site. Defaults to 16. (optional)
+          node-version: 22.23.4 # The specific version of Node that should be used to build your site. Defaults to 16. (optional)
 
   deploy:
     needs: build
