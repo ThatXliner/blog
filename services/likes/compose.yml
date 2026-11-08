@@ -1,7 +1,6 @@
 services:
   likes:
-    image: blog-likes:security-2026-10
-    build: .
+    image: node:24.22.2-alpine
     restart: unless-stopped
     init: true
     working_dir: /app
